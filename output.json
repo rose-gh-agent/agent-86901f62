@@ -1,0 +1,3487 @@
+[
+  {
+    "firm": "Alpine Ventures (California)",
+    "contact": "Edward Suh",
+    "email": "esuh@alpine.vc"
+  },
+  {
+    "firm": "Gather Ventures",
+    "contact": "Adam Slutsky",
+    "email": "adam@gatherventures.com"
+  },
+  {
+    "firm": "Wisemont Capital",
+    "contact": "Jun Li",
+    "email": "jun@wisemontcapital.com"
+  },
+  {
+    "firm": "Echo River Capital",
+    "contact": "Peter Yolles",
+    "email": "peter@echorivercap.com"
+  },
+  {
+    "firm": "Manifest Investment Partners",
+    "contact": "Sinan Aral",
+    "email": "sinan@milemark.capital"
+  },
+  {
+    "firm": "Base Ventures",
+    "contact": "Erik Moore",
+    "email": "erik@base.ventures"
+  },
+  {
+    "firm": "Freeflow Ventures",
+    "contact": "David Fleck",
+    "email": "david@freeflow.io"
+  },
+  {
+    "firm": "Taiwan Global Angels",
+    "contact": "I-Chien Jan",
+    "email": "ic@taiwanglobalangels.com"
+  },
+  {
+    "firm": "The Roda Group",
+    "contact": "Roger A. Strauch",
+    "email": "roger@rodagroup.com"
+  },
+  {
+    "firm": "Opticality Ventures",
+    "contact": "Hadar Pedhazur",
+    "email": "hadar@opticality.com"
+  },
+  {
+    "firm": "Blue Collective",
+    "contact": "JJ Kasper",
+    "email": "jjkasper@bluecollective.com"
+  },
+  {
+    "firm": "Brooklyn Bridge Ventures",
+    "contact": "Charles E. O'Donnell",
+    "email": "charlie@brooklynbridge.vc"
+  },
+  {
+    "firm": "Habitat Partners",
+    "contact": "Blake D. Lyon",
+    "email": "blake@habitatpartners.co"
+  },
+  {
+    "firm": "K8 Capital",
+    "contact": "Andre Koo",
+    "email": "andre@k8cap.com"
+  },
+  {
+    "firm": "Lorimer Ventures",
+    "contact": "Nicholas Wijnberg",
+    "email": "nick@lorimerventures.com"
+  },
+  {
+    "firm": "Notation Capital",
+    "contact": "Mackenzie Regent",
+    "email": "mackenzie@notationcapital.com"
+  },
+  {
+    "firm": "Plaintext Capital",
+    "contact": "Philip Bonello",
+    "email": "philip@plaintextcapital.com"
+  },
+  {
+    "firm": "Brain Trust Accelerator Fund",
+    "contact": "John M. Reher",
+    "email": "john.reher@braintrustvc.com"
+  },
+  {
+    "firm": "Inspiration Ventures",
+    "contact": "Gady Nemirovsky",
+    "email": "gady@inspirationvc.com"
+  },
+  {
+    "firm": "Shorewind Capital",
+    "contact": "Andrew Rubenstein",
+    "email": "andrew@shorewindcapital.com"
+  },
+  {
+    "firm": "The Explorer Group",
+    "contact": "Daniel J. Laury",
+    "email": "daniel@udelv.com"
+  },
+  {
+    "firm": "Valon Capital",
+    "contact": "John S. Kim",
+    "email": "john.kim@sendbird.com"
+  },
+  {
+    "firm": "YouWeb Incubator",
+    "contact": "Peter Relan",
+    "email": "peter@youwebinc.com"
+  },
+  {
+    "firm": "Natural Capital (US)",
+    "contact": "Jay Zaveri",
+    "email": "jay@naturalcapital.com"
+  },
+  {
+    "firm": "True Blue Partners",
+    "contact": "Sunil Grover",
+    "email": "sgrover@truebluepartners.com"
+  },
+  {
+    "firm": "Reservoir Ventures",
+    "contact": "Danny Bernstein",
+    "email": "danny@reservoir.co"
+  },
+  {
+    "firm": "K20 Fund",
+    "contact": "Eli Ghoori",
+    "email": "eli@ufsfunding.com"
+  },
+  {
+    "firm": "TechU Ventures",
+    "contact": "Natanel Barookhian",
+    "email": "natanel@techuventures.com"
+  },
+  {
+    "firm": "19York",
+    "contact": "Toby Blue",
+    "email": "tblue@19yadvisors.com"
+  },
+  {
+    "firm": "Marin Sonoma Impact Ventures",
+    "contact": "Zachary Kushel",
+    "email": "zkushel@msivfund.com"
+  },
+  {
+    "firm": "Mindfull Investors",
+    "contact": "Dean Radetsky",
+    "email": "dean@mindfullinvestors.com"
+  },
+  {
+    "firm": "Frontier Ventures",
+    "contact": "Dmitry Alimov",
+    "email": "dmitry@frontier.ventures"
+  },
+  {
+    "firm": "Cava Capital",
+    "contact": "Geoff Schneider",
+    "email": "geoff@gosagalife.com"
+  },
+  {
+    "firm": "Samaritan Partners",
+    "contact": "Christopher Maher",
+    "email": "chris@samaritanpartners.com"
+  },
+  {
+    "firm": "Recursive Ventures",
+    "contact": "Itamar Novick",
+    "email": "itamar@recursiveventures.com"
+  },
+  {
+    "firm": "Real Life Innovations",
+    "contact": "Ofer Shapiro",
+    "email": "ofer@rlinnovation.com"
+  },
+  {
+    "firm": "AMED Ventures",
+    "contact": "Joseph Y. Liu",
+    "email": "joel@techlinkventures.com"
+  },
+  {
+    "firm": "BAY STREET HOSPITALITY",
+    "contact": "William Lloyd Huston",
+    "email": "william@baystreetcapitalholdings.com"
+  },
+  {
+    "firm": "Brave14 Capital",
+    "contact": "Taarini Kaur Dang",
+    "email": "taarini@brave14capital.com"
+  },
+  {
+    "firm": "Celtic House Asia Partners",
+    "contact": "Sky Yu",
+    "email": "sky@celticvc.com"
+  },
+  {
+    "firm": "Magic Ventures (Fremont)",
+    "contact": "Simar Mangat",
+    "email": "simar@magic.vc"
+  },
+  {
+    "firm": "Granite Oak Capital",
+    "contact": "Erik Peterson",
+    "email": "erik@graniteoakcap.com"
+  },
+  {
+    "firm": "Galaxy Management",
+    "contact": "Jake Milton Zeller",
+    "email": "jake@joingalaxy.co"
+  },
+  {
+    "firm": "C2 Ventures",
+    "contact": "Chris Cunningham",
+    "email": "chris@c2ventures.co"
+  },
+  {
+    "firm": "Interactive Venture Partners",
+    "contact": "Laszlo Robert Czirjak",
+    "email": "lczirjak@interactivevp.com"
+  },
+  {
+    "firm": "Natureza Growth Partners",
+    "contact": "Fernando B Gentil",
+    "email": "fernando@natureza.co"
+  },
+  {
+    "firm": "Teamworthy Group",
+    "contact": "Melanie Ashmore",
+    "email": "melanie@teamworthy.com"
+  },
+  {
+    "firm": "AGI House",
+    "contact": "Rocky Yu",
+    "email": "rocky@agihouse.org"
+  },
+  {
+    "firm": "Eridani Ventures",
+    "contact": "Tom Shields",
+    "email": "tshields@eriven.com"
+  },
+  {
+    "firm": "Counterview Capital",
+    "contact": "Brian Rubenstein",
+    "email": "brian@counterview.vc"
+  },
+  {
+    "firm": "InFocus Capital Partners",
+    "contact": "Robert Rothman",
+    "email": "rrothman@infocuscapitalpartners.com"
+  },
+  {
+    "firm": "Plasma Ventures",
+    "contact": "Burhan Jaffer",
+    "email": "jafferburhan@gmail.com"
+  },
+  {
+    "firm": "HALLEY Venture Partners",
+    "contact": "Steven J. Schuman",
+    "email": "steve@halleyvp.com"
+  },
+  {
+    "firm": "Click Ventures (New York)",
+    "contact": "Bill Wise",
+    "email": "bill@mediaocean.com"
+  },
+  {
+    "firm": "EB Exchange",
+    "contact": "Laurence Albukerk",
+    "email": "laurence.albukerk@ebexchangefunds.com"
+  },
+  {
+    "firm": "1004 Venture Partners",
+    "contact": "Soyoung Park",
+    "email": "spark@1004venturepartners.com"
+  },
+  {
+    "firm": "Aligned Partners",
+    "contact": "Susan Mason",
+    "email": "susan@alignedvc.com"
+  },
+  {
+    "firm": "Combine",
+    "contact": "Adam Michela",
+    "email": "adam.michela@combine.vc"
+  },
+  {
+    "firm": "Firebolt Ventures",
+    "contact": "Vineet Buch",
+    "email": "vbuch@fireboltventures.com"
+  },
+  {
+    "firm": "MFV Partners",
+    "contact": "Kartheepan Madasamy",
+    "email": "kartheepan@mfvpartners.com"
+  },
+  {
+    "firm": "Monitor Ventures",
+    "contact": "Jerome S. Engel",
+    "email": "jengel@thinkbrg.com"
+  },
+  {
+    "firm": "Photon Fund",
+    "contact": "James Lee",
+    "email": "jlee@photonfund.vc"
+  },
+  {
+    "firm": "PointGuard Ventures",
+    "contact": "Krish Panu",
+    "email": "krish@pointguardventures.com"
+  },
+  {
+    "firm": "Roble Ventures",
+    "contact": "Sergio J. Monsalve",
+    "email": "sergio@robleventures.com"
+  },
+  {
+    "firm": "Davidovs Venture Collective",
+    "contact": "Marina Davidova",
+    "email": "marina@davidovs.com"
+  },
+  {
+    "firm": "New Media Ventures",
+    "contact": "Jessica Salinas",
+    "email": "jsalinas@newmediaventures.org"
+  },
+  {
+    "firm": "Global Semiconductor Group",
+    "contact": "Naveed Sherwani",
+    "email": "naveed@gsg.inc"
+  },
+  {
+    "firm": "Neythri Futures Fund",
+    "contact": "Mythili Sankaran",
+    "email": "mythili@neythrifuturesfund.com"
+  },
+  {
+    "firm": "Rise Together Ventures",
+    "contact": "Kasey Lundquist Reiter",
+    "email": "kasey@risetogetherventures.com"
+  },
+  {
+    "firm": "SV8",
+    "contact": "Amr Abdelaziz",
+    "email": "amr@azangels.vc"
+  },
+  {
+    "firm": "SVG Ventures|THRIVE",
+    "contact": "John Hartnett",
+    "email": "john.hartnett@svgventures.com"
+  },
+  {
+    "firm": "Wisdom Ventures",
+    "contact": "Soren Gordhamer",
+    "email": "soren@wisdomventuresfund.com"
+  },
+  {
+    "firm": "Acadian Ventures",
+    "contact": "Jason Corsello",
+    "email": "jason.corsello@acadianventures.com"
+  },
+  {
+    "firm": "Orange Capital Ventures",
+    "contact": "Rhea Varsha Persaud",
+    "email": "rpersaud@orangecapital.ru"
+  },
+  {
+    "firm": "10vc",
+    "contact": "Benjamin Patterson",
+    "email": "ben@10vc.com"
+  },
+  {
+    "firm": "Aurum Partners",
+    "contact": "Brano Perkovich",
+    "email": "brano.perkovich@49ers.com"
+  },
+  {
+    "firm": "Compass Technology Partners",
+    "contact": "David G. Arscott",
+    "email": "darscott@compasstechpartners.com"
+  },
+  {
+    "firm": "Costella Kirsch",
+    "contact": "Brandon Child",
+    "email": "brandon@costellakirsch.com"
+  },
+  {
+    "firm": "DigitalDx Ventures",
+    "contact": "Michele Colucci",
+    "email": "michele@digitaldxventures.com"
+  },
+  {
+    "firm": "Dragon Venture",
+    "contact": "K. Bobby Chao",
+    "email": "bchao@dragonventure.com"
+  },
+  {
+    "firm": "Draper Richards Kaplan Foundation",
+    "contact": "Anika Warren Woods",
+    "email": "anika@drkfoundation.org"
+  },
+  {
+    "firm": "Eighty-Seven Capital (US)",
+    "contact": "Sam Hinkie",
+    "email": "sam@87capital.com"
+  },
+  {
+    "firm": "Embedding VC",
+    "contact": "Roger Jie Luo",
+    "email": "roger@embedding.vc"
+  },
+  {
+    "firm": "Good AI Capital",
+    "contact": "Darwin Ling",
+    "email": "darwin@goodai.capital"
+  },
+  {
+    "firm": "Health2047 Capital Partners",
+    "contact": "Douglass Given",
+    "email": "doug.given@health2047capital.com"
+  },
+  {
+    "firm": "Integra Groupe",
+    "contact": "Alfredo I Vargas",
+    "email": "alfredo@integragroupe.com"
+  },
+  {
+    "firm": "Kicker Ventures",
+    "contact": "Tomoko Ishikura",
+    "email": "info@kickerventures.com"
+  },
+  {
+    "firm": "Mindful Venture Capital",
+    "contact": "Ari Qayumi",
+    "email": "ari@mindfulvc.com"
+  },
+  {
+    "firm": "Motus Ventures",
+    "contact": "James Disanto",
+    "email": "jim@motusventures.com"
+  },
+  {
+    "firm": "Network VC",
+    "contact": "Alexander Soroka",
+    "email": "a@network.vc"
+  },
+  {
+    "firm": "OVO Fund",
+    "contact": "Eric Chen",
+    "email": "eric@ovofund.com"
+  },
+  {
+    "firm": "PEER Venture Partners",
+    "contact": "Jared Hutchings",
+    "email": "jared@peer.vc"
+  },
+  {
+    "firm": "Rackhouse Venture Capital",
+    "contact": "Kevin Novak",
+    "email": "kevin@rackhouse.vc"
+  },
+  {
+    "firm": "Sarah Smith Fund",
+    "contact": "Sarah Smith",
+    "email": "sarah@sarahsmith.fund"
+  },
+  {
+    "firm": "Startup Capital Ventures",
+    "contact": "Donavan Kealoha",
+    "email": "dkealoha@startupcv.com"
+  },
+  {
+    "firm": "Sunna Ventures",
+    "contact": "Luis Daniel Arbulu",
+    "email": "luis@sunna.vc"
+  },
+  {
+    "firm": "Synergy Ventures",
+    "contact": "Allan Johnston",
+    "email": "ajohnston@synergyventures.net"
+  },
+  {
+    "firm": "Viaduct Ventures",
+    "contact": "Vadim Balashov",
+    "email": "vadim@viaduct.vc"
+  },
+  {
+    "firm": "Aphelion Capital",
+    "contact": "Edwin F. Scheetz",
+    "email": "ned@aphelioncap.com"
+  },
+  {
+    "firm": "Gerken Capital Associates",
+    "contact": "Louis Charles Gerken",
+    "email": "gerken@gerkencapital.com"
+  },
+  {
+    "firm": "Healthy Ventures",
+    "contact": "Enmi Kendall",
+    "email": "enmi@healthy.vc"
+  },
+  {
+    "firm": "SeaX Ventures",
+    "contact": "Supachai Parchariyanon",
+    "email": "kid@seaxventures.vc"
+  },
+  {
+    "firm": "Silicon Valley Quad",
+    "contact": "Raj-Ann Rekhi Gill",
+    "email": "rajann@svquad.com"
+  },
+  {
+    "firm": "Anexa Capital (US)",
+    "contact": "Dejana Dua",
+    "email": "dejanadua@anexacapital.com"
+  },
+  {
+    "firm": "Growth Enjin Partners",
+    "contact": "Kazuki Notsu",
+    "email": "kazuki@incubatefund.com"
+  },
+  {
+    "firm": "Monta Vista Capital",
+    "contact": "Venktesh Shukla",
+    "email": "venk@montavc.com"
+  },
+  {
+    "firm": "Suvan Ventures",
+    "contact": "Radhesh Kanumury",
+    "email": "radhesh@suvan.vc"
+  },
+  {
+    "firm": "The Angels' Forum",
+    "contact": "Leif Langensand",
+    "email": "leif.langensand@loqate.com"
+  },
+  {
+    "firm": "Eight Bar Partners",
+    "contact": "Thomas Edwin Doster",
+    "email": "tdoster@eightbarpartners.com"
+  },
+  {
+    "firm": "Cloquet Capital Partners",
+    "contact": "Burton E. McGillivray",
+    "email": "burt@cloquetcapital.com"
+  },
+  {
+    "firm": "Bulldog Innovation Group",
+    "contact": "Laura Kauer Rodriguez",
+    "email": "laura@bulldog.vc"
+  },
+  {
+    "firm": "Elm Street Ventures",
+    "contact": "Robert Bettigole",
+    "email": "rbettigole@elmvc.com"
+  },
+  {
+    "firm": "1540 Ventures",
+    "contact": "Robert King",
+    "email": "king@crewecapital.com"
+  },
+  {
+    "firm": "2048 Ventures",
+    "contact": "Alex Iskold",
+    "email": "alex@2048.vc"
+  },
+  {
+    "firm": "355 Capital",
+    "contact": "Nissim X Cohen",
+    "email": "xc@355cap.com"
+  },
+  {
+    "firm": "3ig Ventures",
+    "contact": "Chip Brian",
+    "email": "chip@3igventures.com"
+  },
+  {
+    "firm": "97212 Ventures",
+    "contact": "Eyal Bino",
+    "email": "eyal@97212.vc"
+  },
+  {
+    "firm": "Abundance Partners",
+    "contact": "Vladimir Efros",
+    "email": "vefros@abundancelp.com"
+  },
+  {
+    "firm": "Academy Investor Network",
+    "contact": "Sherman Williams",
+    "email": "sherman@academyinvestor.com"
+  },
+  {
+    "firm": "Access Ventures (New York)",
+    "contact": "Mudit Dawar",
+    "email": "mudit@accessventures.co"
+  },
+  {
+    "firm": "Adnate Capital",
+    "contact": "Benjamin Avor",
+    "email": "bavor@adnatecapital.com"
+  },
+  {
+    "firm": "AG Dillon & Co",
+    "contact": "Aaron Dillon",
+    "email": "aaron.dillon@agdillon.com"
+  },
+  {
+    "firm": "AIF",
+    "contact": "Christopher R. Male",
+    "email": "chris@autismimpact.fund"
+  },
+  {
+    "firm": "AlleyCorp",
+    "contact": "Kevin p. Ryan",
+    "email": "kevinryan@alleycorp.com"
+  },
+  {
+    "firm": "Almanac Insights",
+    "contact": "David Barber",
+    "email": "david@almanacinvest.com"
+  },
+  {
+    "firm": "Alrion Pillar Capital",
+    "contact": "Anthony Ofongo",
+    "email": "anthony@alrionpillarcapital.com"
+  },
+  {
+    "firm": "Altari Ventures",
+    "contact": "Anna Garcia",
+    "email": "anna@altariventures.com"
+  },
+  {
+    "firm": "Altitude Investment Management",
+    "contact": "Michael Goldberg",
+    "email": "mgoldberg@altitudein.com"
+  },
+  {
+    "firm": "Altra Venture Partners",
+    "contact": "Jamie Melzer",
+    "email": "jamie@altravp.com"
+  },
+  {
+    "firm": "Aperture Venture Partners",
+    "contact": "Eric H. Sillman",
+    "email": "eric@aperturevp.com"
+  },
+  {
+    "firm": "ARC Angel Fund",
+    "contact": "Edward G. Reitler",
+    "email": "ereitler@reitlerlaw.com"
+  },
+  {
+    "firm": "Arcus Ventures",
+    "contact": "Chad Hellmann",
+    "email": "ch@arcusventures.com"
+  },
+  {
+    "firm": "Arcview Ventures",
+    "contact": "Jeffrey E. Finkle",
+    "email": "jeffreyfinkle@arcviewventures.com"
+  },
+  {
+    "firm": "Ascent Biomedical Ventures",
+    "contact": "Steven Hochberg",
+    "email": "shochberg@abvlp.com"
+  },
+  {
+    "firm": "Atypical Ventures",
+    "contact": "Christopher Wake",
+    "email": "chris@atypical.vc"
+  },
+  {
+    "firm": "Avant Bio",
+    "contact": "Daniella Kranjac",
+    "email": "daniella@avant.bio"
+  },
+  {
+    "firm": "Azuro Capital",
+    "contact": "Yuly Djaparidze",
+    "email": "yuly@azurocapital.com"
+  },
+  {
+    "firm": "B3 Capital",
+    "contact": "Nikolas Huth",
+    "email": "nikolas@b3cap.co"
+  },
+  {
+    "firm": "Backwards Capital",
+    "contact": "Chris Zarou",
+    "email": "chris@backwardscapital.com"
+  },
+  {
+    "firm": "Banter Capital (United States)",
+    "contact": "Heston Berkman",
+    "email": "heston@bantercap.com"
+  },
+  {
+    "firm": "Banyan Ventures (New York)",
+    "contact": "Sam Awrabi",
+    "email": "sam@banyan-vc.com"
+  },
+  {
+    "firm": "Basis Vectors",
+    "contact": "Ambarish Narayan Gupta",
+    "email": "ambarish@basisvectors.com"
+  },
+  {
+    "firm": "BAT VC",
+    "contact": "Aditya Mishra",
+    "email": "aditya@bat-vc.com"
+  },
+  {
+    "firm": "BBG Ventures (North America)",
+    "contact": "Susan M. Lyne",
+    "email": "susan.lyne@bbgventures.com"
+  },
+  {
+    "firm": "Be Human Capital",
+    "contact": "Himanshu Niranjani",
+    "email": "himanshu@behuman.capital"
+  },
+  {
+    "firm": "Belief Capital",
+    "contact": "Kevin Costa",
+    "email": "kevin@beliefcapital.co"
+  },
+  {
+    "firm": "Benchstrength (New York)",
+    "contact": "Ken Chenault",
+    "email": "kchenault@benchstrengthvc.com"
+  },
+  {
+    "firm": "Bettor Capital",
+    "contact": "David VanEgmond",
+    "email": "dave@bettorcapital.com"
+  },
+  {
+    "firm": "BFF VC",
+    "contact": "Miguel Burger-Calderon",
+    "email": "miguel@bff.vc"
+  },
+  {
+    "firm": "Black Opal Ventures",
+    "contact": "Eileen Tanghal",
+    "email": "eileen.tanghal@blackopalventures.com"
+  },
+  {
+    "firm": "Blanck Capital",
+    "contact": "Jason K. Blanck",
+    "email": "jason@blanckcapital.com"
+  },
+  {
+    "firm": "Bleu Capital",
+    "contact": "Julien Lepleux",
+    "email": "julien@bleucap.com"
+  },
+  {
+    "firm": "Blue Ox Healthcare Partners",
+    "contact": "Alexander R. Rogers",
+    "email": "alex@blueoxhcp.com"
+  },
+  {
+    "firm": "Blue Scorpion Investments",
+    "contact": "Gautam Ahuja",
+    "email": "ga@bluescorpioninv.com"
+  },
+  {
+    "firm": "Boro Capital",
+    "contact": "Daniel Roever",
+    "email": "daniel@borocapital.com"
+  },
+  {
+    "firm": "Bridgespan VC",
+    "contact": "Adrien Gautier",
+    "email": "adrien@bridgespan.vc"
+  },
+  {
+    "firm": "Bright Ventures",
+    "contact": "Lenore Champagne Beirne",
+    "email": "lenore@brightventures.io"
+  },
+  {
+    "firm": "Broad St Ventures",
+    "contact": "Ralonda Johnson",
+    "email": "ralonda@broadstventures.com"
+  },
+  {
+    "firm": "Bullish (Consulting Services)",
+    "contact": "Michael Duda",
+    "email": "mike@bullish.co"
+  },
+  {
+    "firm": "Burnt Island Ventures",
+    "contact": "Thomas Collin Eustace Ferguson",
+    "email": "tom@burntislandventures.com"
+  },
+  {
+    "firm": "Cadenza Capital",
+    "contact": "Max Shapiro",
+    "email": "max@cadenza.vc"
+  },
+  {
+    "firm": "Capital 49",
+    "contact": "Jack Zhang",
+    "email": "jack@airwallex.com"
+  },
+  {
+    "firm": "Carbon Ventures",
+    "contact": "Jason Cahill",
+    "email": "jason@carbonventures.vc"
+  },
+  {
+    "firm": "Carthage Capital Group",
+    "contact": "Steve Sallion",
+    "email": "steve@carthage.net"
+  },
+  {
+    "firm": "Centre Street Partners",
+    "contact": "Abie J. Cohen",
+    "email": "abie@centrestreet.partners"
+  },
+  {
+    "firm": "Ceras Ventures",
+    "contact": "Sarah Abuagela",
+    "email": "sa@cerasvc.com"
+  },
+  {
+    "firm": "Chenel Capital Partners",
+    "contact": "Richard Chenel",
+    "email": "richard.chenel@chenelcapital.com"
+  },
+  {
+    "firm": "Chestnut Street Ventures",
+    "contact": "Brian Keil",
+    "email": "brian@av.vc"
+  },
+  {
+    "firm": "CitizenX",
+    "contact": "Emilio DiSanluciano",
+    "email": "emilio@citizenx.co"
+  },
+  {
+    "firm": "CJNV BioVentures",
+    "contact": "Chau Q. Khuong",
+    "email": "ckhuong@cjnv-bioventures.com"
+  },
+  {
+    "firm": "CoFound Partners",
+    "contact": "Jordan Wan",
+    "email": "jordan@cofoundpartners.com"
+  },
+  {
+    "firm": "Collate Capital",
+    "contact": "Mark C. Weaver",
+    "email": "mweaver@collatecapital.com"
+  },
+  {
+    "firm": "Colle Capital Partners",
+    "contact": "Victoria Grace",
+    "email": "victoria@collecapital.com"
+  },
+  {
+    "firm": "Collide Capital",
+    "contact": "Brian Hollins",
+    "email": "brian@collidecap.com"
+  },
+  {
+    "firm": "Communitas Capital Partners",
+    "contact": "Douglas Atkin",
+    "email": "douga@communitascapital.com"
+  },
+  {
+    "firm": "ComposeVC",
+    "contact": "Cem Kemal Mimaro\u011flu",
+    "email": "cem.mimaroglu@composevc.com"
+  },
+  {
+    "firm": "Connectivity Ventures Fund",
+    "contact": "Jaahred Thomas",
+    "email": "jct@connectivity.vc"
+  },
+  {
+    "firm": "Cordes Foundation",
+    "contact": "Eric Stephenson",
+    "email": "eric@cordesfoundation.org"
+  },
+  {
+    "firm": "Courtside Ventures",
+    "contact": "Vasudev Badarinarayan Kulkarni",
+    "email": "vasu@courtsidevc.com"
+  },
+  {
+    "firm": "Credibly Neutral",
+    "contact": "Lisa Cuesta Bunin",
+    "email": "lisa@aztecprotocol.com"
+  },
+  {
+    "firm": "Crew Capital",
+    "contact": "Brandon Deer",
+    "email": "brandon.deer@uipath.com"
+  },
+  {
+    "firm": "Crystal Venture Partners",
+    "contact": "Jonathan H.F Crystal",
+    "email": "jhfc@crystalventurepartners.com"
+  },
+  {
+    "firm": "Cult Capital",
+    "contact": "John M. Kenney",
+    "email": "jmk@cultcapital.com"
+  },
+  {
+    "firm": "Daraja Capital",
+    "contact": "Raudline Etienne",
+    "email": "etienne@brightwoodlp.com"
+  },
+  {
+    "firm": "Datapower Ventures",
+    "contact": "David Yakobovitch",
+    "email": "david@datapower.vc"
+  },
+  {
+    "firm": "Decisive Point",
+    "contact": "Thomas Hendrix",
+    "email": "tommy@decisivepoint.com"
+  },
+  {
+    "firm": "Delta Blockchain Fund",
+    "contact": "Kavita Gupta",
+    "email": "kavita@deltafund.io"
+  },
+  {
+    "firm": "Demand Signal Ventures",
+    "contact": "Daniel Selli",
+    "email": "dselli@demandsignalventurepartners.com"
+  },
+  {
+    "firm": "Digital Irish Angels",
+    "contact": "David Beatty",
+    "email": "david@digitalirish.com"
+  },
+  {
+    "firm": "Divergent Capital (New York)",
+    "contact": "Katie Shea",
+    "email": "katie@divergenthq.com"
+  },
+  {
+    "firm": "DMC Capital Funding",
+    "contact": "Andrew Lowinger",
+    "email": "alowinger@dmccapitalfunding.com"
+  },
+  {
+    "firm": "Dynamk Capital",
+    "contact": "Ann Partlow",
+    "email": "apartlow@earthrisecapital.com"
+  },
+  {
+    "firm": "Earthrise Capital",
+    "contact": "Roger Ehrenberg",
+    "email": "roger@ebergcapital.com"
+  },
+  {
+    "firm": "Eberg Capital",
+    "contact": "Shreyas Slater Chityala",
+    "email": "sschityala@eipfund.com"
+  },
+  {
+    "firm": "Elevate Innovation Partners",
+    "contact": "William McClelland",
+    "email": "will@elizabethstreet.vc"
+  },
+  {
+    "firm": "Elizabeth Street Ventures",
+    "contact": "David Martin Geliebter",
+    "email": "dgeliebter@criticaldiagnostics.com"
+  },
+  {
+    "firm": "Embark Healthcare",
+    "contact": "Avani Patel",
+    "email": "avani@embercompany.co"
+  },
+  {
+    "firm": "ember co.",
+    "contact": "Joshua Smith",
+    "email": "joshua.smith@emeraldmanagers.com"
+  },
+  {
+    "firm": "Emerald Development Managers",
+    "contact": "Melissa Frakman",
+    "email": "mfrakman@em.vc"
+  },
+  {
+    "firm": "Emphasis Ventures (EMVC)",
+    "contact": "Anthony Buffa",
+    "email": "abuffa@endeavorcap.com"
+  },
+  {
+    "firm": "Endeavor Capital Management",
+    "contact": "Mahesh Ramakrishnan",
+    "email": "mahesh@ev3.xyz"
+  },
+  {
+    "firm": "EV3",
+    "contact": "Adam Huttler",
+    "email": "adam.huttler@exponentialcreativity.vc"
+  },
+  {
+    "firm": "Exponential Creativity Ventures",
+    "contact": "James C. Murray",
+    "email": "jmurray@exsightventures.com"
+  },
+  {
+    "firm": "ExSight Ventures",
+    "contact": "David T. Tswamuno",
+    "email": "david@fairbridge.vc"
+  },
+  {
+    "firm": "Fairbridge (New York)",
+    "contact": "Anuradha Duggal",
+    "email": "anu@femalefoundersfund.com"
+  },
+  {
+    "firm": "Female Founders Fund",
+    "contact": "William F. Detwiler",
+    "email": "bdetwiler@fernbrookmgmt.com"
+  },
+  {
+    "firm": "Fernbrook Capital Management",
+    "contact": "Matt Straz",
+    "email": "matt@fidiventures.com"
+  },
+  {
+    "firm": "FiDi Ventures",
+    "contact": "Rob Pellecchia",
+    "email": "rob@figmentcapital.io"
+  },
+  {
+    "firm": "Figment Capital",
+    "contact": "David Birnbaum",
+    "email": "dbirnbaum@broadwayvideo.com"
+  },
+  {
+    "firm": "Five Four Ventures",
+    "contact": "Andrew Vigneault",
+    "email": "andrew@flexcap.com"
+  },
+  {
+    "firm": "Flexcap Ventures",
+    "contact": "Ismail Kola",
+    "email": "ismail.kola@forepont.com"
+  },
+  {
+    "firm": "Forepont Capital Partners",
+    "contact": "Michael Cardamone",
+    "email": "mike@forumvc.com"
+  },
+  {
+    "firm": "Forum Ventures",
+    "contact": "Jalak Jobanputra",
+    "email": "jalak@fpv.vc"
+  },
+  {
+    "firm": "Future Perfect Ventures",
+    "contact": "Lev Ekster",
+    "email": "lev@meetgambit.com"
+  },
+  {
+    "firm": "Gambit Ventures",
+    "contact": "Ihar Mahaniok",
+    "email": "ihar@geek-ventures.com"
+  },
+  {
+    "firm": "Geek Ventures",
+    "contact": "Jason Hishmeh",
+    "email": "sj@getstartupfunding.com"
+  },
+  {
+    "firm": "Get Startup Funding",
+    "contact": "Miguel Armaza",
+    "email": "miguel@gilgameshvc.com"
+  },
+  {
+    "firm": "Gilgamesh Ventures",
+    "contact": "Simon G. Gillett",
+    "email": "simon.gillett@gaiiff.com"
+  },
+  {
+    "firm": "Global AI Internet Freedom Fund",
+    "contact": "Ted Moon",
+    "email": "tmoon@globalbioaccess.com"
+  },
+  {
+    "firm": "Global BioAccess Fund",
+    "contact": "Jeffrey A. Stewart",
+    "email": "jeff@gpofund.com"
+  },
+  {
+    "firm": "Global Public Offering Fund",
+    "contact": "Deb Gerardi Kemper",
+    "email": "dkemper@goldenseeds.com"
+  },
+  {
+    "firm": "Golden Seeds Ventures",
+    "contact": "Jacob Afriat",
+    "email": "jacob@greatcircle.vc"
+  },
+  {
+    "firm": "Great Circle Ventures",
+    "contact": "Celine Kwok",
+    "email": "ckwok@greatoaksvc.com"
+  },
+  {
+    "firm": "Great Oaks Venture Capital",
+    "contact": "Nobu Iguchi",
+    "email": "nobu@greatwave.vc"
+  },
+  {
+    "firm": "Great Wave Ventures",
+    "contact": "Alex Ferber",
+    "email": "alex@greenegg.vc"
+  },
+  {
+    "firm": "Green Egg Ventures",
+    "contact": "Paul Palmieri",
+    "email": "paul@grit.vc"
+  },
+  {
+    "firm": "Grit Capital Partners",
+    "contact": "James Gettinger",
+    "email": "james@gutter.cc"
+  },
+  {
+    "firm": "Gutter Capital",
+    "contact": "Oliver B. Libby",
+    "email": "oliver@h-l.vc"
+  },
+  {
+    "firm": "H/L Ventures",
+    "contact": "Max Batt",
+    "email": "max@hangar.is"
+  },
+  {
+    "firm": "Hangar Capital",
+    "contact": "Jinlong Wang",
+    "email": "jerry.wang@hi2global.com"
+  },
+  {
+    "firm": "Hi2 Global",
+    "contact": "Laurence Girard",
+    "email": "laurence.girard@healthcareshares.com"
+  },
+  {
+    "firm": "Hippocrates Ventures",
+    "contact": "Shummi Jindal",
+    "email": "sjindal@hudsonparkadvisors.com"
+  },
+  {
+    "firm": "Hudson Park Advisors",
+    "contact": "Heather Hartnett",
+    "email": "heather@human.vc"
+  },
+  {
+    "firm": "Human Ventures",
+    "contact": "Chip Austin",
+    "email": "caustin@hbse.vc"
+  },
+  {
+    "firm": "i-Hatch Ventures",
+    "contact": "Miriam Dong",
+    "email": "miriam@id3.vc"
+  },
+  {
+    "firm": "ID3 Ventures",
+    "contact": "Nish Patel",
+    "email": "nish@inertia.vc"
+  },
+  {
+    "firm": "Inertia Ventures",
+    "contact": "Kabe Roashan",
+    "email": "kabe@inflectionvc.com"
+  },
+  {
+    "firm": "Inflection Ventures (New York)",
+    "contact": "Andrew J. Chomer",
+    "email": "andrew@integrated.vc"
+  },
+  {
+    "firm": "Integrated",
+    "contact": "Vincent Diallo",
+    "email": "vincent@progression.fund"
+  },
+  {
+    "firm": "Interlace Ventures",
+    "contact": "Lisa Chai",
+    "email": "lisa@interwoven.vc"
+  },
+  {
+    "firm": "Interwoven Ventures",
+    "contact": "Sarah G. Foley",
+    "email": "sarah@swatequitypartners.com"
+  },
+  {
+    "firm": "InviNext Growth Partners",
+    "contact": "Jean Sini",
+    "email": "jean@irregex.vc"
+  },
+  {
+    "firm": "Irregular Expressions",
+    "contact": "Joshua Jacobson",
+    "email": "josh@jventures.com"
+  },
+  {
+    "firm": "J Ventures Mgmt",
+    "contact": "Bruce A. Jaffe",
+    "email": "bruce@j4.ventures"
+  },
+  {
+    "firm": "J4.Ventures",
+    "contact": "Parker Wittman",
+    "email": "parker@jackalope.vc"
+  },
+  {
+    "firm": "Jackalope Ventures",
+    "contact": "Lindsay Hoover",
+    "email": "lindsay@jls.fund"
+  },
+  {
+    "firm": "JLS Fund",
+    "contact": "Jeffrey Parkinson",
+    "email": "jparkinson@kecventures.com"
+  },
+  {
+    "firm": "KEC Ventures",
+    "contact": "Andreas Panayi",
+    "email": "andreas@kinisisventures.com"
+  },
+  {
+    "firm": "Kinisis Ventures",
+    "contact": "Dan Rowe",
+    "email": "dan@kitchenfund.com"
+  },
+  {
+    "firm": "Kitchen Fund",
+    "contact": "Rakesh Gupta",
+    "email": "rakesh.gupta@kiwitech.com"
+  },
+  {
+    "firm": "KiwiVenture Partners",
+    "contact": "David Williams",
+    "email": "dw@knick.io"
+  },
+  {
+    "firm": "Knickerbocker Capital (New York)",
+    "contact": "Geri Kirilova",
+    "email": "geri@laconiacapitalgroup.com"
+  },
+  {
+    "firm": "Laconia Capital Group",
+    "contact": "John Neamonitis",
+    "email": "john@lakehouse.vc"
+  },
+  {
+    "firm": "Lakehouse Ventures",
+    "contact": "Jason Lu",
+    "email": "jason@latercapital.com"
+  },
+  {
+    "firm": "Later Capital",
+    "contact": "Steven Grin",
+    "email": "sgrin@lateralfrontiers.com"
+  },
+  {
+    "firm": "Lateral Frontiers VC",
+    "contact": "Brittany Gorevic Laughlin",
+    "email": "brittany@lattice.vc"
+  },
+  {
+    "firm": "Lattice Ventures",
+    "contact": "Rachel Wu",
+    "email": "rachel@legendary.vc"
+  },
+  {
+    "firm": "Legendary Ventures",
+    "contact": "Alexey Tsyplakov",
+    "email": "alex@lightray.vc"
+  },
+  {
+    "firm": "Light Ray Ventures",
+    "contact": "Jamie Roberts Seltzer",
+    "email": "jamie@incredibledream.com"
+  },
+  {
+    "firm": "LightShed Ventures",
+    "contact": "Alexander Holt",
+    "email": "alexander@limitlessventures.us"
+  },
+  {
+    "firm": "Limitless Ventures",
+    "contact": "Marcus Glover",
+    "email": "mglover@lockstepventures.com"
+  },
+  {
+    "firm": "Lockstep Ventures",
+    "contact": "Sergey Young",
+    "email": "sy@peakstate.vc"
+  },
+  {
+    "firm": "Longevity Vision Fund",
+    "contact": "Adam Besvinick",
+    "email": "adam@lookingglass.vc"
+  },
+  {
+    "firm": "Looking Glass Capital",
+    "contact": "Paul Capon",
+    "email": "paul@lunacapventures.com"
+  },
+  {
+    "firm": "LunaCap Ventures",
+    "contact": "Steven Berg",
+    "email": "sberg@lyticalventures.com"
+  },
+  {
+    "firm": "Lytical Ventures",
+    "contact": "Mark Ghermezian",
+    "email": "mark.ghermezian@braze.com"
+  },
+  {
+    "firm": "m]x[v Capital",
+    "contact": "Moshe Bellows",
+    "email": "mbellows@maccabee.vc"
+  },
+  {
+    "firm": "Maccabee Ventures",
+    "contact": "Antonio Luck",
+    "email": "antonio@matterscale.com"
+  },
+  {
+    "firm": "MatterScale Ventures",
+    "contact": "Lauren Bonner",
+    "email": "lauren.bonner@juristat.com"
+  },
+  {
+    "firm": "MBM Capital",
+    "contact": "Rafael Torgovicky",
+    "email": "rt@med-explore.com"
+  },
+  {
+    "firm": "Medexplore Ventures",
+    "contact": "Scott Law",
+    "email": "scott@meridianstreetcapital.com"
+  },
+  {
+    "firm": "Meridian Street Capital",
+    "contact": "Caroline Kassie",
+    "email": "caroline@metrodora.vc"
+  },
+  {
+    "firm": "Metrodora Ventures",
+    "contact": "Owen E.H. Meyer",
+    "email": "owen@meyerglobalmgmt.com"
+  },
+  {
+    "firm": "Meyer Global Management",
+    "contact": "Gary Benerofe",
+    "email": "gary@clicksandbricks.digital"
+  },
+  {
+    "firm": "Mu Ventures",
+    "contact": "Michael Weinmann",
+    "email": "mike@mvolutionpartners.com"
+  },
+  {
+    "firm": "MVolution Partners",
+    "contact": "John Michael Cataldi",
+    "email": "john@clearhealthpass.com"
+  },
+  {
+    "firm": "Native American Venture Fund",
+    "contact": "Ivan Alo",
+    "email": "ivan@newage.vc"
+  },
+  {
+    "firm": "New Age Capital",
+    "contact": "Elly Truesdell",
+    "email": "elly@madebynacho.com"
+  },
+  {
+    "firm": "New Fare Partners",
+    "contact": "Alex Marinier",
+    "email": "alex@newformcap.com"
+  },
+  {
+    "firm": "New Form Capital",
+    "contact": "Igor Soshkin",
+    "email": "igor@nicecapital.vc"
+  },
+  {
+    "firm": "Nice Capital",
+    "contact": "Ross Morton",
+    "email": "ross.morton@nodenza.com"
+  },
+  {
+    "firm": "Nodenza Venture Partners",
+    "contact": "Simeon Iheagwam",
+    "email": "simeon@noemisventures.com"
+  },
+  {
+    "firm": "Noemis Ventures",
+    "contact": "Jayesh Punater",
+    "email": "jpunater@nucleusdna.co"
+  },
+  {
+    "firm": "Nucleus (New York)",
+    "contact": "Rabia Iqbal",
+    "email": "ir@nural.capital"
+  },
+  {
+    "firm": "Nural Capital",
+    "contact": "Rohit Gandhi",
+    "email": "rohit@nytcp.com"
+  },
+  {
+    "firm": "NY Technology Capital Partners",
+    "contact": "MIchael Lythcott",
+    "email": "michael@obsidianip.com"
+  },
+  {
+    "firm": "Obsidian Investment Partners",
+    "contact": "Sara Barek",
+    "email": "sara@oceans.ventures"
+  },
+  {
+    "firm": "Oceans Ventures",
+    "contact": "Ben Freeberg",
+    "email": "ben@oncology.ventures"
+  },
+  {
+    "firm": "Oncology Ventures",
+    "contact": "Peter DeSorcy",
+    "email": "pdesorcy@orteliusinvestments.com"
+  },
+  {
+    "firm": "Ortelius Alternative Investment Management",
+    "contact": "Oleg Langbort",
+    "email": "oleg@ovalcap.com"
+  },
+  {
+    "firm": "Oval Capital",
+    "contact": "Michael Nogen",
+    "email": "michael@presidiumcap.com"
+  },
+  {
+    "firm": "Overton Venture Capital",
+    "contact": "Erica Wenger",
+    "email": "erica@parkrangerscap.com"
+  },
+  {
+    "firm": "Park Rangers Capital",
+    "contact": "Mahdi Raza",
+    "email": "mahdi@pathlight.vc"
+  },
+  {
+    "firm": "Pathlight Ventures",
+    "contact": "Ziv Ben-Barouch",
+    "email": "ziv@sivotacapital.com"
+  },
+  {
+    "firm": "Pereg Ventures",
+    "contact": "Sophie Purdom",
+    "email": "sophie@planeteercapital.com"
+  },
+  {
+    "firm": "Planeteer Capital",
+    "contact": "Deborah Jackson",
+    "email": "deborah@plumalley.co"
+  },
+  {
+    "firm": "Plum Alley Ventures",
+    "contact": "Abby Miller Levy",
+    "email": "abby@primetimepartners.com"
+  },
+  {
+    "firm": "Primetime Partners",
+    "contact": "Lorin Gu",
+    "email": "lorin@rechargecapital.com"
+  },
+  {
+    "firm": "Recharge Capital",
+    "contact": "Drew Austin Greenfeld",
+    "email": "drew@redbeard.ventures"
+  },
+  {
+    "firm": "Red Beard Ventures",
+    "contact": "Scott Birnbaum",
+    "email": "scott@redseaventures.com"
+  },
+  {
+    "firm": "Red Sea Ventures",
+    "contact": "Erica Duignan Minnihan",
+    "email": "erica@reignvc.com"
+  },
+  {
+    "firm": "Reign Ventures",
+    "contact": "Jiten Dajee",
+    "email": "jiten@rendered.vc"
+  },
+  {
+    "firm": "Rendered VC",
+    "contact": "Mukund Menda",
+    "email": "mukund@reshape.co"
+  },
+  {
+    "firm": "Reshape Ventures",
+    "contact": "Jordan S. Ryan",
+    "email": "jordan@rhythmvc.com"
+  },
+  {
+    "firm": "Rhythm VC",
+    "contact": "David I. Frazee",
+    "email": "david.frazee@rglobal.com"
+  },
+  {
+    "firm": "Richmond Global Ventures",
+    "contact": "Bruce E. Roberts",
+    "email": "broberts@rmglobal.com"
+  },
+  {
+    "firm": "RM Global Partners",
+    "contact": "Joshua B. Siegel",
+    "email": "joshua@rubicon.vc"
+  },
+  {
+    "firm": "Rubicon Venture Capital",
+    "contact": "Matthew Boras",
+    "email": "mboras@rxr.com"
+  },
+  {
+    "firm": "RXR ARDEN Digital Ventures",
+    "contact": "Sanja Partalo",
+    "email": "sanja@s4sventures.com"
+  },
+  {
+    "firm": "S4S Ventures",
+    "contact": "Philipp Schams",
+    "email": "philipp@s5v.com"
+  },
+  {
+    "firm": "S5V",
+    "contact": "Lloyd Danzig",
+    "email": "lloyd@sharpalphaadvisors.com"
+  },
+  {
+    "firm": "Sharp Alpha Advisors",
+    "contact": "Alexey V. Loganchuk",
+    "email": "alexey@sideralabs.com"
+  },
+  {
+    "firm": "Sidera Labs",
+    "contact": "Richard L. Shorten",
+    "email": "rshorten@silverminecapital.com"
+  },
+  {
+    "firm": "Silvermine Capital Advisors",
+    "contact": "Steven Etienne",
+    "email": "setienne@societygroup.co"
+  },
+  {
+    "firm": "Society Group",
+    "contact": "Elizabeth Galbut",
+    "email": "elizabeth@alevelcapital.com"
+  },
+  {
+    "firm": "SoGal Ventures",
+    "contact": "Wisam Abdulla",
+    "email": "wiz@spacecadet.ventures"
+  },
+  {
+    "firm": "Spacecadet Ventures",
+    "contact": "Amy Rosen Wildstein",
+    "email": "wildstein@suttona.com"
+  },
+  {
+    "firm": "Springboard Growth Capital",
+    "contact": "Alexey Girin",
+    "email": "ag@starta.vc"
+  },
+  {
+    "firm": "Starta Ventures",
+    "contact": "Talal Attieh",
+    "email": "talal@steelatlas.vc"
+  },
+  {
+    "firm": "Steel Atlas",
+    "contact": "Laura Fox",
+    "email": "laura@streetlifeventures.com"
+  },
+  {
+    "firm": "Streetlife Ventures",
+    "contact": "Joseph Coyne",
+    "email": "jcoyne@studio.vc"
+  },
+  {
+    "firm": "Studio VC",
+    "contact": "Leland Hensch",
+    "email": "leland@enhanceddigital.group"
+  },
+  {
+    "firm": "Subversive Capital",
+    "contact": "Ben M. Zises",
+    "email": "ben@superangel.vc"
+  },
+  {
+    "firm": "SuperAngel.Fund",
+    "contact": "Laurel Touby",
+    "email": "laurel@supernode.vc"
+  },
+  {
+    "firm": "Supernode Ventures",
+    "contact": "Jay Patil",
+    "email": "jay@swell.vc"
+  },
+  {
+    "firm": "Swell Partners",
+    "contact": "Kenzi Wang",
+    "email": "kenzi@symbolic.capital"
+  },
+  {
+    "firm": "Symbolic Capital",
+    "contact": "Michael Davis",
+    "email": "mdavis@syrencapitaladvisors.com"
+  },
+  {
+    "firm": "Syren Capital Advisors",
+    "contact": "Shani Peled",
+    "email": "shani@technoart.org"
+  },
+  {
+    "firm": "TechnoArt",
+    "contact": "Jeremy Kagan",
+    "email": "jeremy@textbook.vc"
+  },
+  {
+    "firm": "Textbook Ventures",
+    "contact": "Meline von Brentano",
+    "email": "mvonbrentano@palantir.com"
+  },
+  {
+    "firm": "The Caedmon Group",
+    "contact": "Ian Feeney",
+    "email": "ian@thecannonproject.com"
+  },
+  {
+    "firm": "The Cannon Project",
+    "contact": "Jesse J. Middleton",
+    "email": "jesse_middleton@thecommunity.vc"
+  },
+  {
+    "firm": "The Community Fund",
+    "contact": "Nik Milanovic",
+    "email": "nmilanovic@stablecon.com"
+  },
+  {
+    "firm": "The Fintech Fund",
+    "contact": "Maria Kochmola",
+    "email": "mk@gamesfund.vc"
+  },
+  {
+    "firm": "The Games Fund",
+    "contact": "Aprile Age",
+    "email": "acage@mcnultyfound.org"
+  },
+  {
+    "firm": "The John P. & Anne Welsh McNulty Foundation",
+    "contact": "Brian P. Phillips",
+    "email": "bphillips@thepearl.fund"
+  },
+  {
+    "firm": "The Pearl Fund",
+    "contact": "George Hornig",
+    "email": "george@theseedlab.com"
+  },
+  {
+    "firm": "The Seed Lab",
+    "contact": "Elizabeth Luckett",
+    "email": "lluckett@tsef.com"
+  },
+  {
+    "firm": "The Social Entrepreneurs Fund",
+    "contact": "Shana Fisher",
+    "email": "shana@a16z.com"
+  },
+  {
+    "firm": "Third Kind Venture Capital",
+    "contact": "Jeff Safferman",
+    "email": "jeff@timbergrovevc.com"
+  },
+  {
+    "firm": "Timber Grove Ventures",
+    "contact": "Ben Feder",
+    "email": "benfeder@tirta.io"
+  },
+  {
+    "firm": "Tirta Ventures",
+    "contact": "Steven Goldman",
+    "email": "sgoldman@tjnscapital.com"
+  },
+  {
+    "firm": "TJNS Capital",
+    "contact": "Eli Broverman",
+    "email": "eli@thetreasury.com"
+  },
+  {
+    "firm": "Treasury (New York)",
+    "contact": "Jack Schow",
+    "email": "jschow@tremendousview.capital"
+  },
+  {
+    "firm": "Tremendous View Capital",
+    "contact": "Jack Fennebresque",
+    "email": "jack@trestlelp.com"
+  },
+  {
+    "firm": "Trestle Partners",
+    "contact": "John McEvoy",
+    "email": "john@tribecaesp.com"
+  },
+  {
+    "firm": "Tribeca Early Stage Partners",
+    "contact": "Bennett Thomas",
+    "email": "bennett@tripleimpactcapital.com"
+  },
+  {
+    "firm": "Triple Impact Capital",
+    "contact": "Bill Cohen",
+    "email": "bill@tuhayevp.com"
+  },
+  {
+    "firm": "Tuhaye Venture Partners",
+    "contact": "Doug Perlson",
+    "email": "doug@uncommonvc.com"
+  },
+  {
+    "firm": "Uncommon Denominator",
+    "contact": "Sunita Grote",
+    "email": "sgrote@unicef.org"
+  },
+  {
+    "firm": "UNICEF Venture Fund",
+    "contact": "Eric W. Roberts",
+    "email": "eroberts@valencefund.com"
+  },
+  {
+    "firm": "Valence Life Sciences",
+    "contact": "Khaled Jalanbo",
+    "email": "khaled@valia.vc"
+  },
+  {
+    "firm": "Valia Ventures",
+    "contact": "Neal Kapur",
+    "email": "nkapur@valley.com"
+  },
+  {
+    "firm": "Valley Ventures",
+    "contact": "Josh Elwell",
+    "email": "josh@valuestreamventures.com"
+  },
+  {
+    "firm": "ValueStream Ventures",
+    "contact": "Aniq Rahman",
+    "email": "aniq@florenceos.com"
+  },
+  {
+    "firm": "Vast Ventures",
+    "contact": "Maria Anthony",
+    "email": "maria@veraequity.com"
+  },
+  {
+    "firm": "Vera Equity",
+    "contact": "Eric Chen",
+    "email": "eric@injectiveprotocol.com"
+  },
+  {
+    "firm": "Vessel Capital",
+    "contact": "Ricardo A. Sagrera",
+    "email": "ricardo@viceven.com"
+  },
+  {
+    "firm": "Viceroy Ventures",
+    "contact": "Eddy van der Paardt",
+    "email": "eddy@virtucapitalpartners.com"
+  },
+  {
+    "firm": "Virtu Capital Partners",
+    "contact": "William FitzGerald",
+    "email": "wfitzgerald@windcrestpartners.com"
+  },
+  {
+    "firm": "Windcrest Partners",
+    "contact": "Gayle Jennings-O'Byrne",
+    "email": "gayle@wocstar.com"
+  },
+  {
+    "firm": "Wocstar",
+    "contact": "Johnny Lieberman",
+    "email": "johnny@worklynpartners.com"
+  },
+  {
+    "firm": "Worklyn Partners",
+    "contact": "Daniel Weiss Pick",
+    "email": "daniel@wpss.bio"
+  },
+  {
+    "firm": "WPSS.bio",
+    "contact": "Guy P. Wyser-Pratte",
+    "email": "gwyser-pratte@wyser-pratte.com"
+  },
+  {
+    "firm": "Wyser-Pratte Management Co",
+    "contact": "Allison Kopf",
+    "email": "allison@tract.eco"
+  },
+  {
+    "firm": "XFactor Ventures",
+    "contact": "Matthew Denning",
+    "email": "matthew.denning@yugenpartners.com"
+  },
+  {
+    "firm": "Yugen Partners",
+    "contact": "Idan Sugarman",
+    "email": "idan@zero-knowledge.xyz"
+  },
+  {
+    "firm": "Zero Knowledge",
+    "contact": "Donald E. Zilkha",
+    "email": "dzilkha@zilkhainvestments.com"
+  },
+  {
+    "firm": "Zilkha Investments",
+    "contact": "Adrian Horotan",
+    "email": "adrian.horotan@safermade.net"
+  },
+  {
+    "firm": "Safer Made",
+    "contact": "Eliza Schnitzer Gairard",
+    "email": "eliza@althea.one"
+  },
+  {
+    "firm": "Althea Equity",
+    "contact": "Mike Crisp",
+    "email": "mike@harborcappartners.com"
+  },
+  {
+    "firm": "Harbor Cap Partners",
+    "contact": "John A. Fichthorn",
+    "email": "john@medtexventures.com"
+  },
+  {
+    "firm": "MedTex Ventures",
+    "contact": "James Wang",
+    "email": "james@creativeventures.vc"
+  },
+  {
+    "firm": "Creative Ventures",
+    "contact": "Morelys Machado",
+    "email": "morelys@devlabs.vc"
+  },
+  {
+    "firm": "Devlabs Ventures",
+    "contact": "Ghassan Aloshban",
+    "email": "galoshban@emkan.vc"
+  },
+  {
+    "firm": "Emkan Capital",
+    "contact": "Cindy B. Padnos",
+    "email": "cindy@illuminate.com"
+  },
+  {
+    "firm": "Illuminate Ventures",
+    "contact": "Kesha Cash",
+    "email": "kcash@impactamericafund.com"
+  },
+  {
+    "firm": "Impact America Fund",
+    "contact": "Christine De la Rosa",
+    "email": "christine.delarosa@mytpd.com"
+  },
+  {
+    "firm": "The People's Group",
+    "contact": "Arpan Punyani",
+    "email": "apunyani@centercityventures.com"
+  },
+  {
+    "firm": "Garuda",
+    "contact": "Amanda Terry",
+    "email": "amanda@actaiventures.com"
+  },
+  {
+    "firm": "ACTAI Ventures",
+    "contact": "Nadav Eylath",
+    "email": "nadav@at.inc"
+  },
+  {
+    "firm": "at.inc/",
+    "contact": "Mary Wheeler",
+    "email": "mary@biorockventures.com"
+  },
+  {
+    "firm": "BioRock Ventures",
+    "contact": "Chris Yeh",
+    "email": "chris@blitzscalingvc.com"
+  },
+  {
+    "firm": "Blitzscaling Ventures",
+    "contact": "Steven Willinger",
+    "email": "swillinger+pitchbook@alumni.stanford.edu"
+  },
+  {
+    "firm": "Blockchain Builders Fund",
+    "contact": "Wouter Born",
+    "email": "wouter@borncapital.vc"
+  },
+  {
+    "firm": "Born Capital (California)",
+    "contact": "Rami El Assal",
+    "email": "rami@boutiquevc.com"
+  },
+  {
+    "firm": "Boutique Venture Partners",
+    "contact": "Lisa Stone",
+    "email": "lisa@braintrustfund.vc"
+  },
+  {
+    "firm": "BrainTrust Fund",
+    "contact": "Jon Sakoda",
+    "email": "jon@decibel.vc"
+  },
+  {
+    "firm": "Decibel Partners",
+    "contact": "Mike Matthys",
+    "email": "mike@doorga.net"
+  },
+  {
+    "firm": "Doorga Capital",
+    "contact": "Nikolai Oreshkin",
+    "email": "nikolai@elysium.vc"
+  },
+  {
+    "firm": "Elysium Venture Capital",
+    "contact": "Darren T. Kimura",
+    "email": "darren.kimura@squared.ai"
+  },
+  {
+    "firm": "Enerdigm",
+    "contact": "Holly Zheng",
+    "email": "holly@envisionxcapital.com"
+  },
+  {
+    "firm": "EnvisionX Capital",
+    "contact": "Alvaro Filpo",
+    "email": "alvaro@fabricaventures.com"
+  },
+  {
+    "firm": "Fabrica Ventures",
+    "contact": "Kevin J. McQuillan",
+    "email": "kmcquillan@ocaventures.com"
+  },
+  {
+    "firm": "Focus Opportunity Fund",
+    "contact": "Davorin Kuchan",
+    "email": "davorin@freerun.vc"
+  },
+  {
+    "firm": "Freerun Ventures",
+    "contact": "Paul A. Conley",
+    "email": "paul@generalinception.com"
+  },
+  {
+    "firm": "General Inception",
+    "contact": "Bill Eichen",
+    "email": "bill.eichen@gimmelfund.com"
+  },
+  {
+    "firm": "Gimmel Ventures",
+    "contact": "Amy Gu",
+    "email": "amy@hemi.vc"
+  },
+  {
+    "firm": "Hemi Ventures",
+    "contact": "Claire Chang",
+    "email": "claire@ignitexl.com"
+  },
+  {
+    "firm": "IgniteXL Ventures",
+    "contact": "Braughm Ricke",
+    "email": "braughm@aduroadvisors.com"
+  },
+  {
+    "firm": "K9 Ventures",
+    "contact": "Winston Fu",
+    "email": "winston@ldvpartners.com"
+  },
+  {
+    "firm": "LDV Partners",
+    "contact": "Bin Zhou",
+    "email": "bin.zhou@lm.ventures"
+  },
+  {
+    "firm": "LM VENTURES",
+    "contact": "Sarah Lucas",
+    "email": "sarah@lucasvg.com"
+  },
+  {
+    "firm": "Lucas Venture Group",
+    "contact": "Clint Chao",
+    "email": "clint@momentventures.com"
+  },
+  {
+    "firm": "Moment Ventures",
+    "contact": "Zac Zeitlin",
+    "email": "zac@newground.vc"
+  },
+  {
+    "firm": "New Ground Ventures",
+    "contact": "Rohini Chakravarthy",
+    "email": "rohini@newbuild.vc"
+  },
+  {
+    "firm": "NewBuild Venture Capital",
+    "contact": "Nichol Bradford",
+    "email": "nichol.bradford@niremia.vc"
+  },
+  {
+    "firm": "Niremia Collective",
+    "contact": "Denis Buryakovskyy",
+    "email": "bdv@o2founder.com"
+  },
+  {
+    "firm": "O2Founders",
+    "contact": "Neil Jay Wolff",
+    "email": "neil.wolff@oxonianventures.com"
+  },
+  {
+    "firm": "Oxonian Ventures",
+    "contact": "David Peery",
+    "email": "david@peeryfoundation.org"
+  },
+  {
+    "firm": "Peery Foundation",
+    "contact": "Pingrong Benard Joseph Yu",
+    "email": "pr.yu@yugalaxy.com"
+  },
+  {
+    "firm": "SV Tech Ventures",
+    "contact": "Benjamin Narasin",
+    "email": "ben@tenacity.fund"
+  },
+  {
+    "firm": "Tenacity Venture Capital",
+    "contact": "Arihant Gajendrakumar Patni",
+    "email": "arihant.patni@patniadvisors.com"
+  },
+  {
+    "firm": "The Hive",
+    "contact": "Safa Rashtchy",
+    "email": "safa@thinkplus.vc"
+  },
+  {
+    "firm": "Think +",
+    "contact": "Crysti Chen",
+    "email": "crysti@uniwillventures.com"
+  },
+  {
+    "firm": "UniWill Ventures",
+    "contact": "Gil Ben-Artzy",
+    "email": "gil@upwest.vc"
+  },
+  {
+    "firm": "UpWest",
+    "contact": "Harry Gabriel Whelan",
+    "email": "gwhelan@wgcm.com"
+  },
+  {
+    "firm": "Whelan Capital Management",
+    "contact": "Abhijit Solanki",
+    "email": "abhijit@whiteboard.vc"
+  },
+  {
+    "firm": "Whiteboard Venture Partners",
+    "contact": "Bhavik Rana",
+    "email": "bhavik.r@numoneyholdings.com"
+  },
+  {
+    "firm": "NuMoney Advisors",
+    "contact": "Venkat Bussa",
+    "email": "vb@aurum.pe"
+  },
+  {
+    "firm": "Aurum Venture Partners",
+    "contact": "Andrew Lanza",
+    "email": "drew@berkeleycatalystfund.com"
+  },
+  {
+    "firm": "Berkeley Catalyst Fund Management",
+    "contact": "Gregory D. Hitchan",
+    "email": "greg@trivalleyventures.com"
+  },
+  {
+    "firm": "Tri-Valley Ventures",
+    "contact": "Ben Broad",
+    "email": "ben.broad@keterpoint.com"
+  },
+  {
+    "firm": "Keter Point",
+    "contact": "John Smothers",
+    "email": "john@scribble.vc"
+  },
+  {
+    "firm": "Scribble Ventures",
+    "contact": "Suzanne Rombeau Fletcher",
+    "email": "suzanne@zelda.vc"
+  },
+  {
+    "firm": "Zelda Ventures",
+    "contact": "Peter Herz",
+    "email": "peter@1cc.vc"
+  },
+  {
+    "firm": "1st Course Capital",
+    "contact": "Jeffrey M. Martinez",
+    "email": "jeffrey@diversityvc.co"
+  },
+  {
+    "firm": "Diversity Venture Capital",
+    "contact": "Kiran Shah",
+    "email": "kiran@mmc.us"
+  },
+  {
+    "firm": "Mercurius Media Capital",
+    "contact": "Ivan Kirigin",
+    "email": "ivan@tango.vc"
+  },
+  {
+    "firm": "Tango VC",
+    "contact": "Duke Rohlen",
+    "email": "drohlen@ajaxhealth.com"
+  },
+  {
+    "firm": "TauTona Group",
+    "contact": "Ryan Smith",
+    "email": "ryans@qualtrics.com"
+  },
+  {
+    "firm": "The Halo Fund",
+    "contact": "Warren Weiss",
+    "email": "wweiss@westwavecapital.com"
+  },
+  {
+    "firm": "WestWave Capital",
+    "contact": "Mark Haney",
+    "email": "mark@growthfactory.us"
+  },
+  {
+    "firm": "Growth Factory (Rocklin)",
+    "contact": "Steven R. Mills",
+    "email": "smills@dcapartners.com"
+  },
+  {
+    "firm": "DCA Capital Partners",
+    "contact": "Chris Kaster",
+    "email": "ckaster@cadencehcvc.com"
+  },
+  {
+    "firm": "Cadence Healthcare Ventures",
+    "contact": "Ken Grimes",
+    "email": "ken@blackangeltechfund.com"
+  },
+  {
+    "firm": "Black Angel Tech Fund",
+    "contact": "Kwame Yao Anku",
+    "email": "kanku@blackstar.fund"
+  },
+  {
+    "firm": "Black Star Fund",
+    "contact": "Ashley Bittner",
+    "email": "ashley@firework.vc"
+  },
+  {
+    "firm": "Firework Ventures",
+    "contact": "Ramy Adeeb",
+    "email": "ramy@1984.vc"
+  },
+  {
+    "firm": "1984 Ventures",
+    "contact": "Lauren Schwartz",
+    "email": "lauren@20sales.vc"
+  },
+  {
+    "firm": "20SALES",
+    "contact": "Jonathan Abrams",
+    "email": "jabrams@8bitcapital.com"
+  },
+  {
+    "firm": "8-Bit Capital",
+    "contact": "April Underwood",
+    "email": "april@adverb.vc"
+  },
+  {
+    "firm": "Adverb Ventures",
+    "contact": "Daniel Rumennik",
+    "email": "daniel@angellist.com"
+  },
+  {
+    "firm": "AirAngels",
+    "contact": "Suman Talukdar",
+    "email": "suman@aisprouts.vc"
+  },
+  {
+    "firm": "AiSprouts VC",
+    "contact": "Mei Z",
+    "email": "mei@alloyfund.com"
+  },
+  {
+    "firm": "Alloy Fund",
+    "contact": "Howie Diamond",
+    "email": "howie@alphabridgevc.com"
+  },
+  {
+    "firm": "Alpha Bridge Ventures",
+    "contact": "Carlos Ochoa",
+    "email": "carlos@alphaimpact8.com"
+  },
+  {
+    "firm": "Alpha Impact 8",
+    "contact": "James Graham",
+    "email": "james@amberstone.com"
+  },
+  {
+    "firm": "Amberstone",
+    "contact": "Greg Castle",
+    "email": "greg@anorak.vc"
+  },
+  {
+    "firm": "Anorak Ventures",
+    "contact": "Alicia Cha Umphreys",
+    "email": "alicia@anthro.ventures"
+  },
+  {
+    "firm": "Anthropocene Ventures",
+    "contact": "Paul Kirincich",
+    "email": "paul@greyscaleai.com"
+  },
+  {
+    "firm": "APA Venture Partners",
+    "contact": "Sohila Zadran",
+    "email": "s@archangel-x.com"
+  },
+  {
+    "firm": "Archangel-1",
+    "contact": "Sharon Vosmek",
+    "email": "sharon@astia.org"
+  },
+  {
+    "firm": "Astia",
+    "contact": "Robert Ness",
+    "email": "rob@asymmetry.vc"
+  },
+  {
+    "firm": "Asymmetry Ventures",
+    "contact": "Pedro Sorrentino",
+    "email": "p@atman.vc"
+  },
+  {
+    "firm": "Atman Capital Partners",
+    "contact": "Chris Leiter",
+    "email": "chris@atria.vc"
+  },
+  {
+    "firm": "Atria Ventures",
+    "contact": "Chandler Guo",
+    "email": "chandler@au21.capital"
+  },
+  {
+    "firm": "AU21 Capital",
+    "contact": "Asli Gozoren",
+    "email": "asli@bandangels.com"
+  },
+  {
+    "firm": "Band of Angels",
+    "contact": "Hannah Chelkowski",
+    "email": "hchelkowski@blank.com"
+  },
+  {
+    "firm": "Blank Ventures",
+    "contact": "Benjamin Xavier Orthlieb",
+    "email": "ben@blue-moon.vc"
+  },
+  {
+    "firm": "Blue Moon (San Francisco)",
+    "contact": "Daniel S. Von Kohorn",
+    "email": "dan@betafund.co"
+  },
+  {
+    "firm": "Broom Ventures",
+    "contact": "Geoff Donaker",
+    "email": "gd@burst.vc"
+  },
+  {
+    "firm": "Burst Capital",
+    "contact": "Monique Woodard",
+    "email": "monique.woodard@cake.vc"
+  },
+  {
+    "firm": "Cake Ventures",
+    "contact": "Rex Salisbury",
+    "email": "rex@cambrian.vc"
+  },
+  {
+    "firm": "Cambrian Fintech",
+    "contact": "Anand Iyer",
+    "email": "anand@canonical.cc"
+  },
+  {
+    "firm": "Canonical Crypto",
+    "contact": "Ian Rountree",
+    "email": "ian@cantos.vc"
+  },
+  {
+    "firm": "Cantos Ventures",
+    "contact": "Elia Infascelli",
+    "email": "elia@formacapital.vc"
+  },
+  {
+    "firm": "Cashmere Fund",
+    "contact": "Jed Smith",
+    "email": "jed@catamountventures.com"
+  },
+  {
+    "firm": "Catamount Ventures",
+    "contact": "Armindo Costa",
+    "email": "armindo@chamaeleon.vc"
+  },
+  {
+    "firm": "Chamaeleon",
+    "contact": "Ben Stokes",
+    "email": "ben@chasingrainbows.vc"
+  },
+  {
+    "firm": "Chasing Rainbows",
+    "contact": "Sarah Kunst",
+    "email": "sarah@cleocap.com"
+  },
+  {
+    "firm": "Cleo Capital",
+    "contact": "Rajil Kapoor",
+    "email": "raj@climactic.vc"
+  },
+  {
+    "firm": "Climactic",
+    "contact": "Karl D. Handelsman",
+    "email": "karl@codoncapital.com"
+  },
+  {
+    "firm": "Codon Capital",
+    "contact": "William D. Clerico",
+    "email": "bill@convectivecapital.com"
+  },
+  {
+    "firm": "Convective Capital",
+    "contact": "Julia Davourie",
+    "email": "julia@convergentvc.com"
+  },
+  {
+    "firm": "Convergent Ventures (San Francisco)",
+    "contact": "Stu Smith",
+    "email": "s@coughdropcapital.com"
+  },
+  {
+    "firm": "Coughdrop Capital",
+    "contact": "Patrick Eggen",
+    "email": "patrick@counterpart.vc"
+  },
+  {
+    "firm": "Counterpart Ventures",
+    "contact": "Jessica Karr",
+    "email": "jessica@coyote.ventures"
+  },
+  {
+    "firm": "Coyote Ventures",
+    "contact": "Noah Lichtenstein",
+    "email": "noah@crossovervc.com"
+  },
+  {
+    "firm": "Crossover VC",
+    "contact": "Albion Calaj",
+    "email": "albi@dardania.vc"
+  },
+  {
+    "firm": "Dardania Ventures",
+    "contact": "Tom Seo",
+    "email": "tom@dashfund.co"
+  },
+  {
+    "firm": "Dash Fund",
+    "contact": "Fabien Dureuil",
+    "email": "fabien@davoa.capital"
+  },
+  {
+    "firm": "Davoa Capital",
+    "contact": "Kyoko Watanabe",
+    "email": "kyokow@deftapartners.com"
+  },
+  {
+    "firm": "DEFTA Partners",
+    "contact": "Michael Scott",
+    "email": "michael@derive-ventures.com"
+  },
+  {
+    "firm": "Derive Ventures",
+    "contact": "Enrique Allen",
+    "email": "enrique@designerfund.com"
+  },
+  {
+    "firm": "Designer Fund",
+    "contact": "Stephen Deng",
+    "email": "stephen@dfslab.net"
+  },
+  {
+    "firm": "DFS Lab",
+    "contact": "John A. Roberts",
+    "email": "jay.roberts@digilife.fund"
+  },
+  {
+    "firm": "Digilife",
+    "contact": "Patrick Chang",
+    "email": "patrick@dispersion.xyz"
+  },
+  {
+    "firm": "Dispersion Capital",
+    "contact": "George Lambeth",
+    "email": "george@div.vc"
+  },
+  {
+    "firm": "Divergence Ventures",
+    "contact": "Ankur Pansari",
+    "email": "ankur@divideby.com"
+  },
+  {
+    "firm": "Divide by Zero",
+    "contact": "Andrew Krowne",
+    "email": "andrew@dolbyventures.com"
+  },
+  {
+    "firm": "Dolby Family Ventures",
+    "contact": "Suraj Kumar Rajwani",
+    "email": "suraj@doublerock.com"
+  },
+  {
+    "firm": "DoubleRock",
+    "contact": "Stephanie Dorsey",
+    "email": "sdorsey@e2jdj.com"
+  },
+  {
+    "firm": "E Squared (San Francisco)",
+    "contact": "Mike Jackson",
+    "email": "mike@earthshot.vc"
+  },
+  {
+    "firm": "Earthshot Ventures",
+    "contact": "Consuelo Valverde",
+    "email": "consuelo@svlatamcap.com"
+  },
+  {
+    "firm": "Endurance28",
+    "contact": "Claire Liang",
+    "email": "claire@eudemian.vc"
+  },
+  {
+    "firm": "Eudemian Ventures",
+    "contact": "Melissa Morano Aurigemma",
+    "email": "melissa@exceptionalcap.com"
+  },
+  {
+    "firm": "Exceptional Capital",
+    "contact": "Kelly Graziadei",
+    "email": "kelly@f7ventures.com"
+  },
+  {
+    "firm": "F7 Ventures",
+    "contact": "Odile Roujol",
+    "email": "odile_roujol@fabcocreationstudio.com"
+  },
+  {
+    "firm": "Fab Co-Creation Studio",
+    "contact": "John Vadim Komkov",
+    "email": "john@fathomcap.com"
+  },
+  {
+    "firm": "Fathom Capital",
+    "contact": "Alex Harris",
+    "email": "alex@fiat.vc"
+  },
+  {
+    "firm": "Fiat Ventures",
+    "contact": "Daniel Darling",
+    "email": "daniel@focal.vc"
+  },
+  {
+    "firm": "Focal (VC)",
+    "contact": "Kim Kolt",
+    "email": "kim@baybridgevc.com"
+  },
+  {
+    "firm": "For Good Ventures",
+    "contact": "Matthew Brezina",
+    "email": "mbrezina@fordstreetvc.com"
+  },
+  {
+    "firm": "Ford Street Ventures",
+    "contact": "Alice Zheng",
+    "email": "alice@foreground.vc"
+  },
+  {
+    "firm": "Foreground Capital",
+    "contact": "Bobby Goodlatte",
+    "email": "bobby@formcapital.com"
+  },
+  {
+    "firm": "Form Capital",
+    "contact": "Tytus Michalski",
+    "email": "tytus@fresco.vc"
+  },
+  {
+    "firm": "Fresco Capital",
+    "contact": "Alexandre Scialom",
+    "email": "alex@fresh-ventures.com"
+  },
+  {
+    "firm": "Fresh Ventures",
+    "contact": "Rachel Chalmers",
+    "email": "rachel@generationship.ai"
+  },
+  {
+    "firm": "Generationship",
+    "contact": "Jenny Rooke",
+    "email": "jenny@genoavc.com"
+  },
+  {
+    "firm": "Genoa Ventures",
+    "contact": "Robin Chan",
+    "email": "robin@goat.vc"
+  },
+  {
+    "firm": "Goat Capital",
+    "contact": "Ronald Bouganim",
+    "email": "ron@govtechfund.com"
+  },
+  {
+    "firm": "Goat Capital Management",
+    "contact": "Dan Schwartz",
+    "email": "dan@gramercyventures.com"
+  },
+  {
+    "firm": "Govtech Fund",
+    "contact": "Shailesh Jayantilal Mehta",
+    "email": "shailesh@granitehill.net"
+  },
+  {
+    "firm": "Gramercy Ventures",
+    "contact": "Lawrence P. Bancroft",
+    "email": "lawrence@greenbookventures.com"
+  },
+  {
+    "firm": "Granite Hill Capital Partners",
+    "contact": "Vikram Lakhwara",
+    "email": "vikram@stakehouse.fund"
+  },
+  {
+    "firm": "Green Book Ventures",
+    "contact": "Michael Walsh",
+    "email": "mikewalsh@greenvisorcapital.com"
+  },
+  {
+    "firm": "Green Cow Venture Capital",
+    "contact": "Raymond S. Jackson",
+    "email": "rjackson@jmpg.com"
+  },
+  {
+    "firm": "Green Visor Capital",
+    "contact": "Steven Jeffrey Taubman",
+    "email": "steve@highgearventures.com"
+  },
+  {
+    "firm": "Harvest Capital Strategies",
+    "contact": "Max Webster",
+    "email": "max@hivemind.vc"
+  },
+  {
+    "firm": "HighGear Ventures",
+    "contact": "Alexandria Lafci",
+    "email": "alexandria@hometeam.vc"
+  },
+  {
+    "firm": "Hivemind Ventures",
+    "contact": "Julie Castro Abrams",
+    "email": "julie@howwomeninvest.com"
+  },
+  {
+    "firm": "Hometeam Ventures",
+    "contact": "Antonio Rallo",
+    "email": "trallo@id345.tech"
+  },
+  {
+    "firm": "How Women Invest",
+    "contact": "Robert Ethier",
+    "email": "robert@impactscience.vc"
+  },
+  {
+    "firm": "ID345",
+    "contact": "Douglas Kirkpatrick",
+    "email": "dkirkpatrick@eridan.io"
+  },
+  {
+    "firm": "Impact Science Ventures",
+    "contact": "Julia Prakapovich",
+    "email": "julia@interfacefund.vc"
+  },
+  {
+    "firm": "InnerProduct Partners",
+    "contact": "Richard Chen",
+    "email": "richard.chen@flexhaul.ai"
+  },
+  {
+    "firm": "Interface Fund",
+    "contact": "Ignacio Mill\u00e1n Vilela",
+    "email": "ignacio@junipero.vc"
+  },
+  {
+    "firm": "Iterative Venture",
+    "contact": "Leandro Pisaroni Gerbaldo",
+    "email": "leandro@kaleiventures.com"
+  },
+  {
+    "firm": "Junipero",
+    "contact": "Susan Choe",
+    "email": "susan@katalyst.vc"
+  },
+  {
+    "firm": "Kalei Ventures",
+    "contact": "Regan Bozman",
+    "email": "regan@latticecap.co"
+  },
+  {
+    "firm": "Katalyst Ventures",
+    "contact": "Helen Zelman Boniske",
+    "email": "helz@lemnoslabs.com"
+  },
+  {
+    "firm": "Lattice Capital",
+    "contact": "Ren\u00e9e Alexiev",
+    "email": "renee@lionheart.vc"
+  },
+  {
+    "firm": "Lemnos",
+    "contact": "Shayna Modarresi",
+    "email": "shayna@thebond.co"
+  },
+  {
+    "firm": "Lionheart Ventures",
+    "contact": "Sam Yu",
+    "email": "syu@longvp.com"
+  },
+  {
+    "firm": "Lodestar Ventures",
+    "contact": "Martin Gedalin",
+    "email": "martin@lumiacapital.com"
+  },
+  {
+    "firm": "Long Venture Partners",
+    "contact": "Georgia Lu",
+    "email": "georgia.lu@magnet.ventures"
+  },
+  {
+    "firm": "Lumia Capital",
+    "contact": "Kevin Laws",
+    "email": "kevin@angellist.com"
+  },
+  {
+    "firm": "Magnet Ventures",
+    "contact": "Morgan Schwanke",
+    "email": "morgan@manaventures.vc"
+  },
+  {
+    "firm": "Maiden Lane",
+    "contact": "Kevin Jiang",
+    "email": "kj@mangustacap.com"
+  },
+  {
+    "firm": "Mana Ventures",
+    "contact": "Andrew Blachman",
+    "email": "andrew@marketplace.capital"
+  },
+  {
+    "firm": "Mangusta Capital",
+    "contact": "Peter Hartigan",
+    "email": "pete@marketplace.fund"
+  },
+  {
+    "firm": "Marketplace Capital",
+    "contact": "Corey Ford",
+    "email": "corey@matter.vc"
+  },
+  {
+    "firm": "Marketplace Funds",
+    "contact": "Chris A. McCoy",
+    "email": "chris@storecloud.org"
+  },
+  {
+    "firm": "Matter Ventures",
+    "contact": "Jahanzeb Sherwani",
+    "email": "jahanzeb.sherwani@mentors.fund"
+  },
+  {
+    "firm": "McCoy Ventures",
+    "contact": "Barry Winata",
+    "email": "barry@metagrove.vc"
+  },
+  {
+    "firm": "Mentors Fund",
+    "contact": "Conrad Burke",
+    "email": "conrad.burke@metaventurepartners.com"
+  },
+  {
+    "firm": "Metagrove Ventures",
+    "contact": "SC Moatti",
+    "email": "sc@mighty.capital"
+  },
+  {
+    "firm": "MetaVC Partners",
+    "contact": "Douglas Crawford",
+    "email": "dcrawford@epiodyne.com"
+  },
+  {
+    "firm": "Mighty Capital",
+    "contact": "Marco Marinucci",
+    "email": "mmarinucci@mindthebridge.com"
+  },
+  {
+    "firm": "Mission Bay Capital",
+    "contact": "Vishal Maini",
+    "email": "vishal@mythos.vc"
+  },
+  {
+    "firm": "MTS Fund",
+    "contact": "Maximilian von Poelnitz",
+    "email": "max@newterritoryventures.com"
+  },
+  {
+    "firm": "Mythos Ventures",
+    "contact": "Gita Gupta",
+    "email": "gita@nextstepventures.org"
+  },
+  {
+    "firm": "New Territory Ventures",
+    "contact": "Danny L. Conway",
+    "email": "danny@niche-cap.com"
+  },
+  {
+    "firm": "NextStep Ventures",
+    "contact": "Alessandro Biral",
+    "email": "alessandro@novirian.com"
+  },
+  {
+    "firm": "Niche Capital (San Francisco)",
+    "contact": "Austin Arensberg",
+    "email": "austin.arensberg@okta.com"
+  },
+  {
+    "firm": "Novirian Capital",
+    "contact": "Betty Ma",
+    "email": "betty@opencoreventures.com"
+  },
+  {
+    "firm": "Okta Ventures",
+    "contact": "Stewart Pond",
+    "email": "stewart@operator-stack.com"
+  },
+  {
+    "firm": "Open Core Ventures",
+    "contact": "Don Ho",
+    "email": "don@orangedao.xyz"
+  },
+  {
+    "firm": "Operator Stack",
+    "contact": "Abiodun Adisa",
+    "email": "abi@oriduncap.com"
+  },
+  {
+    "firm": "Orange DAO",
+    "contact": "Joseph Jacks",
+    "email": "joseph@oss.capital"
+  },
+  {
+    "firm": "Oridun Capital Management",
+    "contact": "Mohammad El-Bibany",
+    "email": "mo@pageone.vc"
+  },
+  {
+    "firm": "OSS Capital",
+    "contact": "Anthony Baldino",
+    "email": "anthony@pappycap.com"
+  },
+  {
+    "firm": "Page One Ventures",
+    "contact": "Yi Han",
+    "email": "yi@pascalcap.com"
+  },
+  {
+    "firm": "Pappy Capital",
+    "contact": "Chloe Breider",
+    "email": "chloe@phoenixclub.vc"
+  },
+  {
+    "firm": "Pascal Capital",
+    "contact": "Jeremy Burton",
+    "email": "jb@platformstud.io"
+  },
+  {
+    "firm": "Phoenix Investment Club (San Francisco)",
+    "contact": "Michael Clifton",
+    "email": "kip@presidioview.com"
+  },
+  {
+    "firm": "Platform Studio",
+    "contact": "J.P. Keating",
+    "email": "jpkeating@prochain.vc"
+  },
+  {
+    "firm": "Presidio View Capital",
+    "contact": "Matthew Lee",
+    "email": "matt@progression.fund"
+  },
+  {
+    "firm": "ProChain Ventures",
+    "contact": "Patri Friedman",
+    "email": "patri@zigfund.com"
+  },
+  {
+    "firm": "Progression Fund",
+    "contact": "Daniel Lawrence Skaff",
+    "email": "dan@radicleimpact.com"
+  },
+  {
+    "firm": "Pronomos Capital",
+    "contact": "Luka Tomljenovic",
+    "email": "luka@radius.capital"
+  },
+  {
+    "firm": "Radicle Impact",
+    "contact": "Chenxi Wang",
+    "email": "chenxi@raincapital.vc"
+  },
+  {
+    "firm": "Radius Capital",
+    "contact": "Jared Heyman",
+    "email": "jared@rebelfund.vc"
+  },
+  {
+    "firm": "Rain Capital",
+    "contact": "Jukka Alanen",
+    "email": "jukka.alanen@rebellionvc.com"
+  },
+  {
+    "firm": "Ranch Ventures",
+    "contact": "Ryan Falvey",
+    "email": "ryan@restive.com"
+  },
+  {
+    "firm": "Rebel Fund",
+    "contact": "Nazar Yasin",
+    "email": "nazar@risecapital.com"
+  },
+  {
+    "firm": "Rebellion Ventures",
+    "contact": "Arkady Kulik",
+    "email": "ak@rpv.global"
+  },
+  {
+    "firm": "Restive Ventures",
+    "contact": "Hanson ChungChi Li",
+    "email": "hanson@saltpg.com"
+  },
+  {
+    "firm": "Rise Capital",
+    "contact": "Jeffrey Schox",
+    "email": "jeff@schox.com"
+  },
+  {
+    "firm": "rpv",
+    "contact": "Matthew Gil Krisiloff",
+    "email": "matt@ovidresearch.com"
+  },
+  {
+    "firm": "Salt Partners Group",
+    "contact": "Bryant T. Dun",
+    "email": "bryant.dun@scpventuresllc.com"
+  },
+  {
+    "firm": "Schox Venture Capital",
+    "contact": "Tak Miyata",
+    "email": "tak.m@scrum.vc"
+  },
+  {
+    "firm": "SciFounders",
+    "contact": "Mahendra Ramsinghani",
+    "email": "mr@secureoctane.com"
+  },
+  {
+    "firm": "SCP Ventures",
+    "contact": "Kiva Dickinson",
+    "email": "kiva@selvaventures.com"
+  },
+  {
+    "firm": "Scrum Ventures",
+    "contact": "Steven Lee",
+    "email": "steven@sevenstars.vc"
+  },
+  {
+    "firm": "Secure Octane",
+    "contact": "Elizabeth Harrow",
+    "email": "liz@shaktivc.com"
+  },
+  {
+    "firm": "Selva Ventures",
+    "contact": "Peter Craddock",
+    "email": "pcraddock@shorelineventures.com"
+  },
+  {
+    "firm": "Seven Stars Ventures",
+    "contact": "Niv Dror",
+    "email": "niv@shrug.vc"
+  },
+  {
+    "firm": "SHAKTI",
+    "contact": "JJ MacLean",
+    "email": "jj@sdv.vc"
+  },
+  {
+    "firm": "Shoreline Venture Management",
+    "contact": "Bill Cherman",
+    "email": "bill@solarecofund.com"
+  },
+  {
+    "firm": "Shrug Capital",
+    "contact": "Babak Hamadani",
+    "email": "babak@specializedtypes.com"
+  },
+  {
+    "firm": "Side Door Ventures",
+    "contact": "Sean Hoge",
+    "email": "sean@starship.vc"
+  },
+  {
+    "firm": "Solar Eco Fund",
+    "contact": "Said Mia",
+    "email": "said@stormbreaker.vc"
+  },
+  {
+    "firm": "Specialized Types",
+    "contact": "Zachary Abrams",
+    "email": "zabrams@stratimcapital.com"
+  },
+  {
+    "firm": "Starship Ventures",
+    "contact": "Richard Jhang",
+    "email": "rj@stratminds.vc"
+  },
+  {
+    "firm": "Stormbreaker Ventures",
+    "contact": "John Gleeson",
+    "email": "john@successvp.com"
+  },
+  {
+    "firm": "Stratim Capital",
+    "contact": "William Hawthorne",
+    "email": "will@sugarcap.com"
+  },
+  {
+    "firm": "Stratminds VC",
+    "contact": "Grayson Judge",
+    "email": "gj@supermooncapital.com"
+  },
+  {
+    "firm": "Success Venture Partners",
+    "contact": "Paul Arnold",
+    "email": "paul@switch.vc"
+  },
+  {
+    "firm": "Sugar Capital",
+    "contact": "Karine Sarkissian",
+    "email": "k.sarkissian@tamar.vc"
+  },
+  {
+    "firm": "Supermoon Capital",
+    "contact": "Patrick Murphy",
+    "email": "pm@amaranthine.vc"
+  },
+  {
+    "firm": "Switch Ventures",
+    "contact": "Steven Lurie",
+    "email": "steven@teambuilderventures.com"
+  },
+  {
+    "firm": "Tamar Ventures (San Francisco)",
+    "contact": "Jeanne Sullivan",
+    "email": "jeanne@starvestpartners.com"
+  },
+  {
+    "firm": "Tapestry VC",
+    "contact": "Lily Clayton",
+    "email": "lily@age1.com"
+  },
+  {
+    "firm": "Team Builder Ventures",
+    "contact": "Eros Resmini",
+    "email": "eros@themini.fund"
+  },
+  {
+    "firm": "The Arcview Group",
+    "contact": "Tabreez Suleman Verjee",
+    "email": "tabreez.verjee@uprising.us"
+  },
+  {
+    "firm": "The Longevity Fund",
+    "contact": "Mike Sherbakov",
+    "email": "mike@veteran.fund"
+  },
+  {
+    "firm": "The Mini Fund",
+    "contact": "Jared Furtado",
+    "email": "jared@thursday.vc"
+  },
+  {
+    "firm": "The Space Between",
+    "contact": "Darren Hite",
+    "email": "dhite@thvc.co"
+  },
+  {
+    "firm": "The Veteran Fund",
+    "contact": "Chris Redlitz",
+    "email": "credlitz@transmediacapital.com"
+  },
+  {
+    "firm": "Thursday Ventures",
+    "contact": "Salil S. Pitroda",
+    "email": "salil.pitroda@trinitylanecapital.com"
+  },
+  {
+    "firm": "Transformational Healthcare",
+    "contact": "Reilly P. Brennan",
+    "email": "rpb@trucks.vc"
+  },
+  {
+    "firm": "Transmedia Capital",
+    "contact": "Patrick Gallagher",
+    "email": "patrick@tuesday.vc"
+  },
+  {
+    "firm": "Trinity Lane Capital",
+    "contact": "Tod M. Sacerdoti",
+    "email": "tod@flexcapital.com"
+  },
+  {
+    "firm": "Trucks Venture Capital",
+    "contact": "Leshika Samarasinghe",
+    "email": "leshika@twineventures.com"
+  },
+  {
+    "firm": "Tuesday Capital",
+    "contact": "Kent Goldman",
+    "email": "kent@upsidevc.com"
+  },
+  {
+    "firm": "Turbo Ventures",
+    "contact": "Lyon Wong",
+    "email": "lyon@v0invest.com"
+  },
+  {
+    "firm": "Twine Ventures",
+    "contact": "Jing Ge",
+    "email": "jge@vectors.earth"
+  },
+  {
+    "firm": "Upside Partnership",
+    "contact": "Yigit Ihlamur",
+    "email": "yigit@vela.partners"
+  },
+  {
+    "firm": "V0 (San Francisco)",
+    "contact": "Joseph T. Hasselmann",
+    "email": "jh@verdure.vc"
+  },
+  {
+    "firm": "Vectors Capital",
+    "contact": "Russell Sprole",
+    "email": "russell@virtaventures.co"
+  },
+  {
+    "firm": "Vela Partners",
+    "contact": "Vijay Chattha",
+    "email": "vijayc@vsc.co"
+  },
+  {
+    "firm": "Verdure Capital Management",
+    "contact": "Lee S. Ting",
+    "email": "l-ting@wrhambrecht.com"
+  },
+  {
+    "firm": "Virta Ventures",
+    "contact": "Riley Newman",
+    "email": "riley@wavecapital.vc"
+  },
+  {
+    "firm": "Visionnaire Ventures",
+    "contact": "Yuri Sagalov",
+    "email": "yuri@wayfinder.com"
+  },
+  {
+    "firm": "VSC Ventures",
+    "contact": "Dena Porter",
+    "email": "dena@winfunding.com"
+  },
+  {
+    "firm": "W.R. Hambrecht + Co",
+    "contact": "Eugene Weber",
+    "email": "eweber@webercapital.com"
+  },
+  {
+    "firm": "Wave Capital",
+    "contact": "Daniel Lawrence Lurie",
+    "email": "daniel@wilmotventuresllc.com"
+  },
+  {
+    "firm": "Wayfinder Ventures",
+    "contact": "Nichole Wischoff",
+    "email": "nichole@wischoff.com"
+  },
+  {
+    "firm": "Webb Investment Network",
+    "contact": "Martina Welkhoff",
+    "email": "martina@wxrfund.com"
+  },
+  {
+    "firm": "Weber Capital Management",
+    "contact": "Brom Quinn Rector",
+    "email": "brom@xeiavp.com"
+  },
+  {
+    "firm": "Wilmot Ventures",
+    "contact": "Alexander Kobenko",
+    "email": "alexander@yellowrockets.vc"
+  },
+  {
+    "firm": "Wischoff Ventures",
+    "contact": "Jyri Engestrom",
+    "email": "jyri@yes.vc"
+  },
+  {
+    "firm": "WXR Venture Fund",
+    "contact": "Abhinav Shashank",
+    "email": "abhinav@innovaccer.com"
+  },
+  {
+    "firm": "XEIA Venture Partners",
+    "contact": "Vivin Hegde",
+    "email": "vivin@zacuaventures.com"
+  },
+  {
+    "firm": "YellowRockets.vc",
+    "contact": "Zain Jaffer",
+    "email": "zain.jaffer@zain-ventures.com"
+  },
+  {
+    "firm": "Yes VC",
+    "contact": "Pete Soderling",
+    "email": "pete@zeroprime.vc"
+  },
+  {
+    "firm": "z21 Ventures",
+    "contact": "Deborah Gbolade Mayowa",
+    "email": "deborah@aidiventures.com"
+  },
+  {
+    "firm": "Zacua Ventures",
+    "contact": "Alok Nandan",
+    "email": "alok@firstrays.vc"
+  },
+  {
+    "firm": "Zain Ventures",
+    "contact": "Kevin M. Landis",
+    "email": "kevin@firsthandcapital.com"
+  },
+  {
+    "firm": "Zero Prime Ventures",
+    "contact": "Gavin Reardon",
+    "email": "gavin@kingsoncapital.com"
+  },
+  {
+    "firm": "Aidi Ventures",
+    "contact": "Sabrina Paseman",
+    "email": "sabrina@omnivl.com"
+  },
+  {
+    "firm": "First Rays Venture Partners",
+    "contact": "Alex Liang",
+    "email": "alex.liang@orizaventures.com"
+  },
+  {
+    "firm": "Firsthand Capital Management",
+    "contact": "Sandeep Sardana",
+    "email": "sandeep@bluepointeventures.com"
+  },
+  {
+    "firm": "Kingson",
+    "contact": "Timothy D. Eades",
+    "email": "timothy@cybermentorfund.com"
+  },
+  {
+    "firm": "Omni Ventures (San Jose)",
+    "contact": "Kathryn Fike",
+    "email": "katy@aging2.com"
+  },
+  {
+    "firm": "Oriza Ventures",
+    "contact": "Bruno Bowden",
+    "email": "bruno@grepvc.com"
+  },
+  {
+    "firm": "BluePointe Ventures",
+    "contact": "Brian Jacobs",
+    "email": "brian@moai.vc"
+  },
+  {
+    "firm": "Cyber Mentor Fund",
+    "contact": "William W. Ericson",
+    "email": "bericson@wildcat.vc"
+  },
+  {
+    "firm": "Generator Ventures",
+    "contact": "William Timothy Draper",
+    "email": "billy@path.vc"
+  },
+  {
+    "firm": "Grep VC",
+    "contact": "Robert E. Patterson",
+    "email": "rpatterson@peninsulaventures.com"
+  },
+  {
+    "firm": "Moai Capital",
+    "contact": "Trish Costello",
+    "email": "trish@portfolia.com"
+  },
+  {
+    "firm": "Mohr Davidow Ventures",
+    "contact": "Patti McCandless",
+    "email": "patti@tefunds.com"
+  },
+  {
+    "firm": "Path Ventures",
+    "contact": "Maximillian C. Diez",
+    "email": "max@25v.co"
+  },
+  {
+    "firm": "Peninsula Ventures",
+    "contact": "Nathan Williams",
+    "email": "nate@unionlabs.com"
+  },
+  {
+    "firm": "Portfolia",
+    "contact": "Michael A. Mitgang",
+    "email": "mmitgang@wgdpartners.com"
+  },
+  {
+    "firm": "The Entrepreneurs' Funds",
+    "contact": "Toussaint Bailey",
+    "email": "toussaint@upliftingcapital.com"
+  },
+  {
+    "firm": "Twenty Five Ventures",
+    "contact": "Yibo Shao",
+    "email": "bo@evolvevf.com"
+  },
+  {
+    "firm": "UNION Labs VC",
+    "contact": "Sheetal Nariani",
+    "email": "sheetal@globalhealthimpactfund.com"
+  },
+  {
+    "firm": "WGD Capital",
+    "contact": "Vaibhav Bhagwanrao Domkundwar",
+    "email": "vaibhav@bettercapital.vc"
+  },
+  {
+    "firm": "Wildcat Venture Partners",
+    "contact": "Morgan Slain",
+    "email": "mslain@scu.edu"
+  },
+  {
+    "firm": "Uplifting Capital",
+    "contact": "Ren Du",
+    "email": "rendu@heuristiccapital.com"
+  },
+  {
+    "firm": "Evolve Ventures",
+    "contact": "Ali Diallo",
+    "email": "diallo@aurioncapital.com"
+  },
+  {
+    "firm": "Global Health Impact Fund",
+    "contact": "Mohammed Nadeem",
+    "email": "nadeem@opulense.vc"
+  },
+  {
+    "firm": "Better Capital (California)",
+    "contact": "Morgan Slain",
+    "email": "morgan@santaclaraventures.com"
+  },
+  {
+    "firm": "Bronco Venture Accelerator",
+    "contact": "Alexi Sevastopoulos",
+    "email": "alexi@santacruzventures.com"
+  },
+  {
+    "firm": "Heuristic Capital Partners",
+    "contact": "Anderson Theodore",
+    "email": "anderson@bktcap.com"
+  },
+  {
+    "firm": "Novawave Capital",
+    "contact": "Matt Barron",
+    "email": "matt.barron@1212.vc"
+  },
+  {
+    "firm": "Opulense",
+    "contact": "Josiah Hornblower",
+    "email": "josiah@bluepinepartners.com"
+  },
+  {
+    "firm": "Santa Clara Ventures",
+    "contact": "Thomas L. Vorisek",
+    "email": "tvorisek@esven.us"
+  },
+  {
+    "firm": "Santa Cruz Ventures",
+    "contact": "Peter D. Henig",
+    "email": "pete@greenhousecapital.net"
+  },
+  {
+    "firm": "BKT Capital",
+    "contact": "Jaclyn Strife",
+    "email": "jaclyn@oceanic.us"
+  },
+  {
+    "firm": "12/12 Ventures",
+    "contact": "Carlos S. Baradello",
+    "email": "carlos@alaya.capital"
+  },
+  {
+    "firm": "Blue Pine Partners",
+    "contact": "Garrett Paul",
+    "email": "garrett@seafrontcap.com"
+  },
+  {
+    "firm": "Esalen Ventures",
+    "contact": "Brant Meyer",
+    "email": "brant@trac.vc"
+  },
+  {
+    "firm": "GHC Partners",
+    "contact": "Yajun Xu",
+    "email": "yajun@epimab.com"
+  },
+  {
+    "firm": "Oceanic Partners",
+    "contact": "Jeff Blank",
+    "email": "jblank@capitalmgroup.com"
+  },
+  {
+    "firm": "Sausalito Ventures",
+    "contact": "Michael J. Dubilier",
+    "email": "mdubilier@dubilier.com"
+  },
+  {
+    "firm": "Seafront Capital",
+    "contact": "Jared R. Kasner",
+    "email": "jared@ineffableventures.vc"
+  },
+  {
+    "firm": "TRAC VC",
+    "contact": "Marie Rocha",
+    "email": "marie@realistventures.com"
+  },
+  {
+    "firm": "ShangPharma Innovation",
+    "contact": "Maneesh Sagar",
+    "email": "maneesh@thynk.io"
+  },
+  {
+    "firm": "Capital M Group",
+    "contact": "Thomas W. Jones",
+    "email": "twjones@twjcapital.com"
+  },
+  {
+    "firm": "Dubilier & Company",
+    "contact": "Robert Lia",
+    "email": "rlia@wheelhouse360.com"
+  },
+  {
+    "firm": "Ineffable Ventures",
+    "contact": "Ronjon Nag",
+    "email": "rnag@superbio.ai"
+  },
+  {
+    "firm": "Realist Ventures",
+    "contact": "Yoshikazu Akinaga",
+    "email": "akinaga@docomoinnovations.com"
+  },
+  {
+    "firm": "Thynk Ventures",
+    "contact": "Alex Chengming Ren",
+    "email": "alex@fellows.fund"
+  },
+  {
+    "firm": "TWJ Capital",
+    "contact": "Allan W. May",
+    "email": "allan.may@lifescienceangels.com"
+  },
+  {
+    "firm": "Wheelhouse 360",
+    "contact": "Jack Feng",
+    "email": "jack@llamaventure.com"
+  },
+  {
+    "firm": "R42 Group",
+    "contact": "Rajan Raghavan",
+    "email": "rajan@truelark.com"
+  },
+  {
+    "firm": "Docomo Innovations",
+    "contact": "Tim Hoag",
+    "email": "tim@artisanalv.com"
+  },
+  {
+    "firm": "Fellows Fund",
+    "contact": "Arif Fazal",
+    "email": "arif@blueberryventures.vc"
+  },
+  {
+    "firm": "Life Science Angels",
+    "contact": "Eduardo Paolo Minguzzi",
+    "email": "paolo@vujade.cl"
+  },
+  {
+    "firm": "Llama Venture",
+    "contact": "Michael Friedman",
+    "email": "mike@facetec.com"
+  },
+  {
+    "firm": "The Fabric",
+    "contact": "Niv Harizman",
+    "email": "niv.harizman@tytocapital.com"
+  },
+  {
+    "firm": "Artisanal Ventures",
+    "contact": "Donald J. Rogers",
+    "email": "drogers@stridecapital.com"
+  },
+  {
+    "firm": "Blueberry Ventures",
+    "contact": "Dana Eli-Lorch",
+    "email": "dana@vesey.vc"
+  }
+]
