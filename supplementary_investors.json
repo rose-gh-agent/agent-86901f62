@@ -1,0 +1,572 @@
+[
+  {
+    "firm_name": "Conviction Capital",
+    "contact_name": "Sarah Guo",
+    "email": "sarah@conviction.com"
+  },
+  {
+    "firm_name": "Pear VC",
+    "contact_name": "Pejman Nozad",
+    "email": "pejman@pear.vc"
+  },
+  {
+    "firm_name": "Zetta Venture Partners",
+    "contact_name": "Mark Gorenberg",
+    "email": "mark@zettavp.com"
+  },
+  {
+    "firm_name": "AI Grant",
+    "contact_name": "Nat Friedman",
+    "email": "nat@aigrant.com"
+  },
+  {
+    "firm_name": "Unusual Ventures",
+    "contact_name": "John Vrionis",
+    "email": "john@unusual.vc"
+  },
+  {
+    "firm_name": "SV Angel",
+    "contact_name": "Topher Conway",
+    "email": "topher@svangel.com"
+  },
+  {
+    "firm_name": "Precursor Ventures",
+    "contact_name": "Charles Hudson",
+    "email": "charles@precursorvc.com"
+  },
+  {
+    "firm_name": "Hustle Fund",
+    "contact_name": "Elizabeth Yin",
+    "email": "elizabeth@hustlefund.vc"
+  },
+  {
+    "firm_name": "Collaborative Fund",
+    "contact_name": "Craig Shapiro",
+    "email": "craig@collaborativefund.com"
+  },
+  {
+    "firm_name": "Lux Capital",
+    "contact_name": "Josh Wolfe",
+    "email": "josh@luxcapital.com"
+  },
+  {
+    "firm_name": "Haystack",
+    "contact_name": "Semil Shah",
+    "email": "semil@haystack.vc"
+  },
+  {
+    "firm_name": "Runtime Ventures",
+    "contact_name": "Ryan Swagar",
+    "email": "info@runtimeventures.com"
+  },
+  {
+    "firm_name": "Glasswing Ventures",
+    "contact_name": "Rudina Seseri",
+    "email": "rudina@glasswing.vc"
+  },
+  {
+    "firm_name": "Shield Capital",
+    "contact_name": "Raj Shah",
+    "email": "raj@shieldcap.com"
+  },
+  {
+    "firm_name": "Factorial Funds",
+    "contact_name": "Sarah Catanzaro",
+    "email": "info@factorial.fund"
+  },
+  {
+    "firm_name": "Chapter One",
+    "contact_name": "Jeff Morris Jr.",
+    "email": "jeff@chapterone.com"
+  },
+  {
+    "firm_name": "Fika Ventures",
+    "contact_name": "Eva Ho",
+    "email": "eva@fika.vc"
+  },
+  {
+    "firm_name": "Tau Ventures",
+    "contact_name": "Amit Garg",
+    "email": "amit@tauventures.com"
+  },
+  {
+    "firm_name": "Felicis Ventures",
+    "contact_name": "Aydin Senkut",
+    "email": "aydin@felicis.com"
+  },
+  {
+    "firm_name": "Craft Ventures",
+    "contact_name": "David Sacks",
+    "email": "info@craftventures.com"
+  },
+  {
+    "firm_name": "Uncork Capital",
+    "contact_name": "Jeff Clavier",
+    "email": "jeff@uncorkcapital.com"
+  },
+  {
+    "firm_name": "Afore Capital",
+    "contact_name": "Anis Uzzaman",
+    "email": "anis@afore.vc"
+  },
+  {
+    "firm_name": "Bain Capital Ventures",
+    "contact_name": "Sarah Smith",
+    "email": "ssmith@baincapitalventures.com"
+  },
+  {
+    "firm_name": "Eniac Ventures",
+    "contact_name": "Vic Singh",
+    "email": "vic@eniac.vc"
+  },
+  {
+    "firm_name": "General Catalyst",
+    "contact_name": "Hemant Taneja",
+    "email": "hemant@generalcatalyst.com"
+  },
+  {
+    "firm_name": "Greylock Partners",
+    "contact_name": "Saam Motamedi",
+    "email": "saam@greylock.com"
+  },
+  {
+    "firm_name": "NFX",
+    "contact_name": "James Currier",
+    "email": "james@nfx.com"
+  },
+  {
+    "firm_name": "Initialized Capital",
+    "contact_name": "Garry Tan",
+    "email": "garry@initialized.com"
+  },
+  {
+    "firm_name": "First Round Capital",
+    "contact_name": "Josh Kopelman",
+    "email": "josh@firstround.com"
+  },
+  {
+    "firm_name": "Founders Fund",
+    "contact_name": "Keith Rabois",
+    "email": "info@foundersfund.com"
+  },
+  {
+    "firm_name": "Khosla Ventures",
+    "contact_name": "Vinod Khosla",
+    "email": "info@khoslaventures.com"
+  },
+  {
+    "firm_name": "Lightspeed Venture Partners",
+    "contact_name": "Guru Chahal",
+    "email": "guru@lsvp.com"
+  },
+  {
+    "firm_name": "Matrix Partners",
+    "contact_name": "Jake Jolis",
+    "email": "jake@matrixpartners.com"
+  },
+  {
+    "firm_name": "Menlo Ventures",
+    "contact_name": "Matt Murphy",
+    "email": "matt@menlovc.com"
+  },
+  {
+    "firm_name": "Norwest Venture Partners",
+    "contact_name": "Scott Beechuk",
+    "email": "sbeechuk@nvp.com"
+  },
+  {
+    "firm_name": "Redpoint Ventures",
+    "contact_name": "Logan Bartlett",
+    "email": "logan@redpoint.com"
+  },
+  {
+    "firm_name": "RRE Ventures",
+    "contact_name": "Raju Rishi",
+    "email": "raju@rre.com"
+  },
+  {
+    "firm_name": "Social Capital",
+    "contact_name": "Chamath Palihapitiya",
+    "email": "info@socialcapital.com"
+  },
+  {
+    "firm_name": "Thrive Capital",
+    "contact_name": "Josh Kushner",
+    "email": "info@thrivecap.com"
+  },
+  {
+    "firm_name": "Union Square Ventures",
+    "contact_name": "Fred Wilson",
+    "email": "fred@usv.com"
+  },
+  {
+    "firm_name": "Version One Ventures",
+    "contact_name": "Boris Wertz",
+    "email": "boris@versiononeventures.com"
+  },
+  {
+    "firm_name": "XYZ Venture Capital",
+    "contact_name": "Ross Fubini",
+    "email": "ross@xyzvc.com"
+  },
+  {
+    "firm_name": "8VC",
+    "contact_name": "Joe Lonsdale",
+    "email": "info@8vc.com"
+  },
+  {
+    "firm_name": "Andreessen Horowitz",
+    "contact_name": "Martin Casado",
+    "email": "info@a16z.com"
+  },
+  {
+    "firm_name": "Abstract Ventures",
+    "contact_name": "Ramtin Naimi",
+    "email": "ramtin@abstractvc.com"
+  },
+  {
+    "firm_name": "Accomplice",
+    "contact_name": "Ryan Moore",
+    "email": "ryan@accomplice.co"
+  },
+  {
+    "firm_name": "Better Tomorrow Ventures",
+    "contact_name": "Sheel Mohnot",
+    "email": "sheel@btv.vc"
+  },
+  {
+    "firm_name": "CRV",
+    "contact_name": "Murat Bicer",
+    "email": "murat@crv.com"
+  },
+  {
+    "firm_name": "Canaan Partners",
+    "contact_name": "Maha Ibrahim",
+    "email": "maha@canaan.com"
+  },
+  {
+    "firm_name": "Dawn Capital",
+    "contact_name": "Haakon Overli",
+    "email": "haakon@dawncapital.com"
+  },
+  {
+    "firm_name": "Durable Capital Partners",
+    "contact_name": "Henry Ellenbogen",
+    "email": "info@durablecapital.com"
+  },
+  {
+    "firm_name": "Emergence Capital",
+    "contact_name": "Jason Green",
+    "email": "jason@emcap.com"
+  },
+  {
+    "firm_name": "Entr\u00e9e Capital",
+    "contact_name": "Avi Eyal",
+    "email": "avi@entreecapital.com"
+  },
+  {
+    "firm_name": "Forerunner Ventures",
+    "contact_name": "Kirsten Green",
+    "email": "kirsten@forerunnerventures.com"
+  },
+  {
+    "firm_name": "Foundation Capital",
+    "contact_name": "Ashu Garg",
+    "email": "ashu@foundationcap.com"
+  },
+  {
+    "firm_name": "GGV Capital",
+    "contact_name": "Glenn Solomon",
+    "email": "glenn@ggvc.com"
+  },
+  {
+    "firm_name": "Index Ventures",
+    "contact_name": "Mike Volpi",
+    "email": "mike@indexventures.com"
+  },
+  {
+    "firm_name": "IVP",
+    "contact_name": "Tom Loverro",
+    "email": "tom@ivp.com"
+  },
+  {
+    "firm_name": "JAZZ Venture Partners",
+    "contact_name": "John Spinale",
+    "email": "john@jazzvp.com"
+  },
+  {
+    "firm_name": "Jump Capital",
+    "contact_name": "Peter Ackerman",
+    "email": "peter@jumpcap.com"
+  },
+  {
+    "firm_name": "Kindred Ventures",
+    "contact_name": "Steve Jang",
+    "email": "steve@kindredventures.com"
+  },
+  {
+    "firm_name": "M13",
+    "contact_name": "Carter Reum",
+    "email": "info@m13.co"
+  },
+  {
+    "firm_name": "Madrona Venture Group",
+    "contact_name": "Matt McIlwain",
+    "email": "matt@madrona.com"
+  },
+  {
+    "firm_name": "Maven Ventures",
+    "contact_name": "Jim Scheinman",
+    "email": "jim@mavenventures.com"
+  },
+  {
+    "firm_name": "MHS Capital",
+    "contact_name": "Mark Sugarman",
+    "email": "mark@mhscapital.com"
+  },
+  {
+    "firm_name": "Mithril Capital",
+    "contact_name": "Ajay Royan",
+    "email": "info@mithril.com"
+  },
+  {
+    "firm_name": "Next47",
+    "contact_name": "Lak Ananth",
+    "email": "lak.ananth@next47.com"
+  },
+  {
+    "firm_name": "NEA",
+    "contact_name": "Liza Landsman",
+    "email": "info@nea.com"
+  },
+  {
+    "firm_name": "Obvious Ventures",
+    "contact_name": "Ev Williams",
+    "email": "hello@obvious.com"
+  },
+  {
+    "firm_name": "Operator Collective",
+    "contact_name": "Mallun Yen",
+    "email": "info@operatorcollective.com"
+  },
+  {
+    "firm_name": "Pathbreaker Ventures",
+    "contact_name": "Ryan Gembala",
+    "email": "info@pathbreakervc.com"
+  },
+  {
+    "firm_name": "Primary Venture Partners",
+    "contact_name": "Brad Svrluga",
+    "email": "brad@primaryvc.com"
+  },
+  {
+    "firm_name": "Sapphire Ventures",
+    "contact_name": "Jai Das",
+    "email": "jai@sapphireventures.com"
+  },
+  {
+    "firm_name": "Scale Venture Partners",
+    "contact_name": "Rory O'Driscoll",
+    "email": "rory@scaleventurepartners.com"
+  },
+  {
+    "firm_name": "Shasta Ventures",
+    "contact_name": "Nikhil Basu Trivedi",
+    "email": "nikhil@shastaventures.com"
+  },
+  {
+    "firm_name": "SignalFire",
+    "contact_name": "Chris Farmer",
+    "email": "chris@signalfire.com"
+  },
+  {
+    "firm_name": "Slow Ventures",
+    "contact_name": "Sam Lessin",
+    "email": "sam@slow.co"
+  },
+  {
+    "firm_name": "Spark Capital",
+    "contact_name": "Nabeel Hyatt",
+    "email": "nabeel@sparkcapital.com"
+  },
+  {
+    "firm_name": "Storm Ventures",
+    "contact_name": "Tae Hea Nahm",
+    "email": "tae@stormventures.com"
+  },
+  {
+    "firm_name": "Two Sigma Ventures",
+    "contact_name": "Matt Jacobus",
+    "email": "matt@twosigmaventures.com"
+  },
+  {
+    "firm_name": "Vertex Ventures",
+    "contact_name": "Jonathan Heiliger",
+    "email": "jonathan@vertexventures.com"
+  },
+  {
+    "firm_name": "WndrCo",
+    "contact_name": "Jeffrey Katzenberg",
+    "email": "info@wndrco.com"
+  },
+  {
+    "firm_name": "Wonder Ventures",
+    "contact_name": "Dustin Rosen",
+    "email": "dustin@wondervc.com"
+  },
+  {
+    "firm_name": "Work-Bench",
+    "contact_name": "Jessica Lin",
+    "email": "jessica@work-bench.com"
+  },
+  {
+    "firm_name": "Anthemis",
+    "contact_name": "Sean Park",
+    "email": "info@anthemis.com"
+  },
+  {
+    "firm_name": "Autotech Ventures",
+    "contact_name": "Alexei Andreev",
+    "email": "info@autotechvc.com"
+  },
+  {
+    "firm_name": "Base10 Partners",
+    "contact_name": "Adeyemi Ajao",
+    "email": "ade@base10.vc"
+  },
+  {
+    "firm_name": "Canvas Ventures",
+    "contact_name": "Rebecca Lynn",
+    "email": "rebecca@canvas.vc"
+  },
+  {
+    "firm_name": "Crosscut Ventures",
+    "contact_name": "Brian Garrett",
+    "email": "brian@crosscut.vc"
+  },
+  {
+    "firm_name": "Drive Capital",
+    "contact_name": "Mark Kvamme",
+    "email": "mark@drivecapital.com"
+  },
+  {
+    "firm_name": "Equal Ventures",
+    "contact_name": "Rick Zullo",
+    "email": "rick@equal.vc"
+  },
+  {
+    "firm_name": "Essence VC",
+    "contact_name": "Brian Hollins",
+    "email": "brian@essencevc.com"
+  },
+  {
+    "firm_name": "Flybridge Capital",
+    "contact_name": "Jesse Middleton",
+    "email": "jesse@flybridge.com"
+  },
+  {
+    "firm_name": "Freestyle Capital",
+    "contact_name": "Jenny Lefcourt",
+    "email": "jenny@freestyle.vc"
+  },
+  {
+    "firm_name": "Harlem Capital",
+    "contact_name": "Henri Pierre-Jacques",
+    "email": "henri@harlem.capital"
+  },
+  {
+    "firm_name": "Highland Capital Partners",
+    "contact_name": "Paul Maeder",
+    "email": "info@hcp.com"
+  },
+  {
+    "firm_name": "HOF Capital",
+    "contact_name": "Katie Stanton",
+    "email": "info@hofcapital.com"
+  },
+  {
+    "firm_name": "Homebrew",
+    "contact_name": "Hunter Walk",
+    "email": "hunter@homebrew.co"
+  },
+  {
+    "firm_name": "Ludlow Ventures",
+    "contact_name": "Jonathon Triest",
+    "email": "jonathon@ludlowventures.com"
+  },
+  {
+    "firm_name": "Moonshots Capital",
+    "contact_name": "Craig Cummings",
+    "email": "craig@moonshotscapital.com"
+  },
+  {
+    "firm_name": "Northzone",
+    "contact_name": "Wendy Xiao Schadeck",
+    "email": "wendy@northzone.com"
+  },
+  {
+    "firm_name": "Owl Ventures",
+    "contact_name": "Ian Chiu",
+    "email": "ian@owlvc.com"
+  },
+  {
+    "firm_name": "Playground Global",
+    "contact_name": "Andy Rubin",
+    "email": "info@playground.global"
+  },
+  {
+    "firm_name": "Point Nine Capital",
+    "contact_name": "Christoph Janz",
+    "email": "christoph@pointnine.com"
+  },
+  {
+    "firm_name": "Root Ventures",
+    "contact_name": "Avidan Ross",
+    "email": "avidan@root.vc"
+  },
+  {
+    "firm_name": "True Ventures",
+    "contact_name": "Phil Black",
+    "email": "phil@trueventures.com"
+  },
+  {
+    "firm_name": "Republic",
+    "contact_name": "Kendrick Nguyen",
+    "email": "hello@republic.com"
+  },
+  {
+    "firm_name": "Spero Ventures",
+    "contact_name": "Shripriya Mahesh",
+    "email": "shripriya@spero.vc"
+  },
+  {
+    "firm_name": "Y Combinator",
+    "contact_name": "Garry Tan",
+    "email": "apply@ycombinator.com"
+  },
+  {
+    "firm_name": "Sequoia Capital (Scout)",
+    "contact_name": "Pat Grady",
+    "email": "info@sequoiacap.com"
+  },
+  {
+    "firm_name": "Accel",
+    "contact_name": "Sonali De Rycker",
+    "email": "info@accel.com"
+  },
+  {
+    "firm_name": "South Park Commons",
+    "contact_name": "Arun Mathew",
+    "email": "arun@southparkcommons.com"
+  },
+  {
+    "firm_name": "Bootstrappers.vc",
+    "contact_name": "Ian Kar",
+    "email": "info@bootstrappers.vc"
+  },
+  {
+    "firm_name": "Digitalis Ventures",
+    "contact_name": "Andrew Schwarzhaupt",
+    "email": "info@digitalisventures.com"
+  }
+]
